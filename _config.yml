@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Sun"
+title                    : "HomePage"
 title_separator          : "-"
-name                     : &name "Yuxuan Sun"
-description              : &description "Yuxuan Sun"
+name                     : &name "HomePage"
+description              : &description "HomePage"
 url                      : https://yuxuannsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuxuannSun/yuxuannsun.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuxuan Sun / 孙宇轩"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Master's student"
+  bio              : "Master's student at Department of Landscape Architecture"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
