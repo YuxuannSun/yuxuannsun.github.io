@@ -36,23 +36,23 @@ The following are the knowledge and skills I have acquired through coursework an
 
   * Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/)
 
-* **Computer Programming:** Fundamental knowledge and skills of Python
+* **Computer Programming:** Fundamental knowledge and skills of **Python**
 
   * Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/)
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/)
 
-* **Computer Graphics:** Fundamental Knowledge and some cutting-edge Research Work in recent years(about Plant modeling)
+* **Computer Graphics:** Fundamental Knowledge and some cutting-edge Research Work in recent years(about plant modeling)
 
-  * Learned by self-study using resources from [GAMES: Graphics And Mixed Environment Symposium](https://games-cn.org/), [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from international conferences & Science Citation Index Journals such as  [ACM SIGGRAPH](https://www.siggraph.org/), [SIGGRAPH ASIA](https://asia.siggraph.org/), [ACM Transactions on Graphics](https://dl.acm.org/journal/tog), etc.
+  * Learned by self-study using resources from [GAMES: Graphics And Mixed Environment Symposium](https://games-cn.org/), [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from international conferences & Science Citation Index Journals such as  [ACM SIGGRAPH](https://www.siggraph.org/), [SIGGRAPH ASIA](https://asia.siggraph.org/), [ACM Transactions on Graphics](https://dl.acm.org/journal/tog), etc
 
-* **Computer Vision:** Some cutting-edge Research Work in recent years(about point cloud processing and Deep learning)
+* **Computer Vision:** Some cutting-edge Research Work in recent years(about point cloud processing and deep learning)
 
-  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv2023.thecvf.com/), [ECCV](https://eccv.ecva.net/), etc.
+  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv2023.thecvf.com/), [ECCV](https://eccv.ecva.net/), etc
 
-* **Deep Learning:** Fundamental Knowledge and some cutting-edge Research Work in recent years(about point cloud processing)
+* **Deep Learning:** Fundamental Knowledge and some cutting-edge Research Work in recent years
 
-  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
+  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/)
 
