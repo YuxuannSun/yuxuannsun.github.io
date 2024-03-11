@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Knowledge and Skills"
-permalink: /Knowledge/
+permalink: /Knowledge-and-Skills/
 author_profile: true
 redirect_from:
   - /resume
