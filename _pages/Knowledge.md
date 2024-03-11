@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Knowledge/Skills"
+title: "Knowledge and Skills"
 permalink: /Knowledge/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Knowledge and Skills
-------
 The following are the knowledge and skills I have acquired through coursework and self-study.
 
 **Remote sensing:** Fundamental knowledge
@@ -30,7 +28,31 @@ Learned by degree course: Foundation of Landscape Geo-Science(by [Anrong Dang](h
 
 Learned by degree course: Theory and Practice of Ecological Restoration(by [Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306))
 
-**Math:** Fundamental knowledge of 
+**Math:** Fundamental knowledge of Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics
 
+Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/)
 
-Practiced by work experience 
+**Data Structure:** Fundamental knowledge
+
+Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/)
+
+**Computer Programming:** Fundamental knowledge and skills of Python
+
+Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/)
+
+Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/)
+
+**Computer Graphics:** Fundamental Knowledge and some cutting-edge Research Work in recent years(about Plant modeling)
+
+Learned by self-study using resources from [GAMES: Graphics And Mixed Environment Symposium](https://games-cn.org/), [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from international conferences & Science Citation Index Journals such as  [ACM SIGGRAPH](https://www.siggraph.org/), [SIGGRAPH ASIA](https://asia.siggraph.org/), [ACM Transactions on Graphics](https://dl.acm.org/journal/tog), etc.
+
+**Computer Vision:** Some cutting-edge Research Work in recent years(about point cloud processing and Deep learning)
+
+Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [CVPR](https://cvpr.thecvf.com/), [ICCV](https://iccv2023.thecvf.com/), [ECCV](https://eccv.ecva.net/), etc.
+
+**Deep Learning:** Fundamental Knowledge and some cutting-edge Research Work in recent years(about point cloud processing)
+
+Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and international conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
+
+Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/)
+
