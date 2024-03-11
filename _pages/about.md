@@ -32,25 +32,25 @@ My research interests are in **point clouds data processing**, **plant modeling*
 Education
 ------
 
-**2022-**<br>
-Master's student, Department of Landscape Architecture, Tsinghua University, China<br>
+* **2022-**<br>
+  * Master's student, Department of Landscape Architecture, Tsinghua University, China<br>
 
-**2014-2018**<br>
-Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
+* **2014-2018**<br>
+  * Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
 
 Student work and Awards
 ------
 
-**2023**<br>
-Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course in Tsinghua University)<br>
+* **2023**<br>
+  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course in Tsinghua University)<br>
 
-Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuated course in Tsinghua University)<br>
+  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuated course in Tsinghua University)<br>
 
-**2018**<br>
-Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
+* **2018**<br>
+  * Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
 
-**2015**<br>
-Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
+* **2015**<br>
+  * Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
 
 
 
