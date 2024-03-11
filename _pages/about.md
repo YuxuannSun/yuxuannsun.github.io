@@ -9,9 +9,9 @@ redirect_from:
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
-Now I'm looking for opportunities as a visiting student/research assistant in a suitable research team to further my study.
+I'm now looking for an opportunity as a visiting student/research assistant, hoping to join a suitable research team to further my study.
 
-My research interests are in **Point clouds data processing**, **Plant modeling** and **Their applications in the built environment**.
+My research interests are in **point clouds data processing**, **plant modeling** and their **applications in the built environment**.
 
 * **Point clouds data processing:**<br>
   he first time I encountered point clouds was in an engineering project. At that time, point clouds, as a novel type of surveying data, provided precise three-dimensional spatial information for the real world, including terrain, vegetation, buildings, and various other elements. This data served as the foundation for quantitative data analysis in engineering projects. Processing and analyzing point cloud data can reveal valuable information about the real world, enabling quantitative descriptions of reality. Additionally, this information can be applied in various fields of research such as ecology, forestry, plant science and many other engineering fields.<br> 
@@ -26,22 +26,21 @@ My research interests are in **Point clouds data processing**, **Plant modeling*
 Education
 ------
 
-**2022-**<br>
-Master's student, Department of Landscape Architecture, Tsinghua University, China<br>
-**2014-2018**<br>
-Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
+2022-<br>
+* Master's student, Department of Landscape Architecture, Tsinghua University, China<br>
+2014-2018<br>
+* Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
 
 Student work and Awards
 ------
 
-**2023**<br>
-Teaching assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course)<br>
-**2023**<br>
-Teaching assistant of the Course: Landscape Architecture Engineering (Undergratuated course)<br>
-**2018**<br>
-Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
-**2015**<br>
-Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
+2023<br>
+* Teaching assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course)<br>
+* Teaching assistant of the Course: Landscape Architecture Engineering (Undergratuated course)<br>
+2018<br>
+* Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
+2015<br>
+* Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
 
 
 Skills
@@ -51,10 +50,6 @@ Skills
 
 
 
-Publications
-------
-
-1. 郭湧, **孙宇轩**. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.<br> 
 
 
 [^1]: [J. Vos, J. B. Evers, G. H. Buck-Sorlin, B. Andrieu, M. Chelle, P. H. B. de Visser, Functional–structural plant modelling: a new versatile tool in crop science, Journal of Experimental Botany, Volume 61, Issue 8, May 2010, Pages 2101–2115](https://doi.org/10.1093/jxb/erp345)
