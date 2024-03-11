@@ -7,29 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master's student in the Department of Landscape Architecture, Tsinghua University.
+I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
-My research interests are in Building Information Modeling, Point Cloud processing and Functional-Structural Plant Model.
-* Building Information Modeling: Before I entered Tsinghua University, I was working as an Engineer in landscape architecture field for 4 years, 
+Now I'm looking for opportunities as a visiting student/research assistant in a suitable research team to further my study.
 
-* Point Cloud processing: 
+My research interests are in **Point clouds data processing**, **Plant modeling** and **Their applications in the built environment**.
 
-* Functional-Structural Plant Model: 
+* **Point clouds data processing:**<br>
+  he first time I encountered point clouds was in an engineering project. At that time, point clouds, as a novel type of surveying data, provided precise three-dimensional spatial information for the real world, including terrain, vegetation, buildings, and various other elements. This data served as the foundation for quantitative data analysis in engineering projects. Processing and analyzing point cloud data can reveal valuable information about the real world, enabling quantitative descriptions of reality. Additionally, this information can be applied in various fields of research such as ecology, forestry, plant science and many other engineering fields.<br> 
+
+* **Plant modeling:**<br>
+  During my undergraduate studies, my research on  plant germplasm conservation laid the groundwork for my interest in plant modeling. My first published paper discussed how to reconstruct three-dimensional models of ancient trees using point cloud data, and how to extract information from them, thereby contributing to the conservation of ancient trees. After reviewing numerous existing research papers, I learned that three-dimensional modeling of plants is relevant in multiple fields. Functional-Structral Plant Model(FSPM) has been established in both computer graphics and plant science field, used to represent plant structure and the physiological or physical processes of its growth development[^1]. Moreover, point clouds provide authentic three-dimensional configuration parameters for plant within specific spatiotemporal contexts.Therefore, the integration of FSPM with point clouds is also a research direction that interests me.<br>
+
+* **Applications in built environment:**<br>
+  As mentioned above, the built environment provides an application scenario for both aspects. Many existing scientific problems can be addressed using new technological methods, which is also a direction I hope to explore.<br>
 
 
 Education
 ------
 
-**2014-2018**  Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
-**2022-**      Master's student, Department of Landscape Architecture, Tsinghua University, China
+**2022-**<br>
+Master's student, Department of Landscape Architecture, Tsinghua University, China<br>
+**2014-2018**<br>
+Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China<br>
 
 Student work and Awards
 ------
 
-**2015**  Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
-**2018**  Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
-**2023**  Teaching assistant for the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course)<br>
-**2023**  Teaching assistant for the Course: Landscape Architecture Engineering (Undergratuated course)
+**2023**<br>
+Teaching assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuated & Graduated course)<br>
+**2023**<br>
+Teaching assistant of the Course: Landscape Architecture Engineering (Undergratuated course)<br>
+**2018**<br>
+Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University<br>
+**2015**<br>
+Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture<br>
+
+
+Skills
+------
+
+
+
+
 
 Publications
 ------
@@ -37,3 +57,4 @@ Publications
 1. 郭湧, **孙宇轩**. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.<br> 
 
 
+[^1]: [J. Vos, J. B. Evers, G. H. Buck-Sorlin, B. Andrieu, M. Chelle, P. H. B. de Visser, Functional–structural plant modelling: a new versatile tool in crop science, Journal of Experimental Botany, Volume 61, Issue 8, May 2010, Pages 2101–2115](https://doi.org/10.1093/jxb/erp345)
