@@ -60,7 +60,7 @@ Data sources and research method
 
     * The preliminary model, due to noise interference, cannot fully reflect the true morphology of the tree. The radii of some branches do not match the actual values, thus requiring further refinement of the model. According to the pipe model theory proposed by Shinozaki et al. and based on the research by Côté et al., the radii model of some branches is adjusted. The algorithm generates cylindrical models to represent the trunk, with the bottom cylinder slightly higher than the ground elevation and with a certain degree of tilt. It needs to be extrapolated to the ground elevation to make the modeling results more accurate. After the data processing is completed and exported, the digital twin model of the tree is obtained.The QSM as the basis of digital twin model is shown in Figure 3.
 
-![Figure.3](/_Publications/pub-images/paper-001-figure-003.jpg)
+![Fig.3](/_Publications/pub-images/paper-001-figure-003.jpg)
 
 Result and analysis
 ------
