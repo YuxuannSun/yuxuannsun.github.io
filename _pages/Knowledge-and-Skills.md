@@ -66,7 +66,8 @@ The following are the knowledge and skills I have acquired through coursework an
 
 * **Language:** Chinese, English
 
-  * Chinese: Native language.
+  * Chinese: 
+    * Native language.
 
   * English: 
     * Currently preparing for the IELTS exam while simultaneously improving reading and writing skills by reading research papers and maintaining personal website.
