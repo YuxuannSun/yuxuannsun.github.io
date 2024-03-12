@@ -11,6 +11,14 @@ redirect_from:
 
 The following are the knowledge and skills I have acquired through coursework and self-study.
 
+<!--
+
+* **Landscape Architecture Engineering & BIM:** Fundamental knowledge and application skills
+
+  * Learned and Practiced by degree course: Landscape Architecture Technology(by [Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and former work experience.<br>
+
+-->
+
 * **Remote sensing:** Fundamental knowledge
 
   * Learned by non-degree course: Theory and Application of Remote Sensing(by [Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
@@ -55,4 +63,13 @@ The following are the knowledge and skills I have acquired through coursework an
   * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and International Conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
+
+* **Language:** Chinese, English
+
+  * Chinese: Native language.
+
+  * English: 
+    * Currently preparing for the IELTS exam while simultaneously improving reading and writing skills by reading research papers and maintaining personal website.
+    * Recently practiced by degree course: Academic English for Master Students(by [Miriam Frank](https://www.lc.tsinghua.edu.cn/info/1011/1295.htm)).
+    * Former Grades: CET-4: 493, CET-6: 422.
 
