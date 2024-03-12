@@ -21,7 +21,7 @@ repository               : "YuxuannSun/yuxuannsun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile01.png"
   name             : "Yuxuan Sun / 孙宇轩"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Master's student at Department of Landscape Architecture"

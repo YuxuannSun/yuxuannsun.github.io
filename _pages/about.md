@@ -11,7 +11,7 @@ I'm currently a Master's student at Department of Landscape Architecture, Tsingh
 
 I'm now looking for an opportunity as a visiting student/research assistant, hoping to join a suitable research team to further my study.
 
-My research interests are in **point clouds data processing**, **plant modeling** and **applications**.
+My research interests are in **point clouds data processing**, **plant modeling** and their **applications**.
 
 * **Point clouds data processing:**<br>
   The first time I encountered point clouds was in an engineering project. At that time, point clouds, as a novel type of surveying data, provided precise three-dimensional spatial information for the real world, including terrain, vegetation, buildings, and various other elements. This data served as the foundation for quantitative data analysis in engineering projects.<br>
