@@ -92,12 +92,7 @@ In the future, this research could be expanded and further explored in the follo
 
 * By optimizing the data processing, more quantitative data and information can be extracted and provided for the protection of ancient and famous trees.
 
-<style>
-.footnote {
-    font-size: 1em;
-    color: black;
-}
-</style>
+
 
 [^1]: <span style="font-size: 1.8em;">[Dijkstra E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
 
