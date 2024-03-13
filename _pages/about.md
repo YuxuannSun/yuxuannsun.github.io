@@ -47,7 +47,7 @@ Student work and Awards
   * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University)(by [Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)).<br>
 
 * **2018**<br>
-  * Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Theses of the class of 2018 at Beijing Forestry University.<br>
+  * Undergraduate thesis titled "Study on Cryopreservation of the seeds of 24 Garden Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.<br>
 
 * **2015**<br>
   * Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture.<br>
