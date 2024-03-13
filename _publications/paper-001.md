@@ -95,11 +95,11 @@ In the future, this research could be expanded and further explored in the follo
 <style>
 .footnote {
     font-size: 1em;
-    color: blue;
+    color: black;
 }
 </style>
 
-[^1]: <span style="font-size: 1.8em;">[DIJKSTRA E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
+[^1]: <span style="font-size: 1.8em;">[Dijkstra E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
 
 [^2]: <span style="font-size: 1.8em;">[Hackenberg J, Morhart C, Sheppard J, et al. Highly accurate tree models derived from terrestrial laser scan data: A method description[J]. Forests, 2014, 5(5): 1069-1105.](https://doi.org/10.3390/f5051069)</span>
 
