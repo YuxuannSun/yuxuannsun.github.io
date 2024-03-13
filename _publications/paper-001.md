@@ -12,8 +12,8 @@ citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技�
 
 Notice
 ------
->* The following content is an excerpt and translation of the original paper, aimed at writing practicing and personal academic communication. **Commercial use or reproduction is not permitted without the consent of the copyright owner**.
->* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://arch.seu.edu.cn/2023/0908/c9122a463929/page.htm) in Chinese.
+>* The following content is an excerpt and translation of the original paper, aimed at writing practicing and personal academic communication.
+>* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODY5Ng==&mid=2247554452&idx=1&sn=91500987edcb7d9cae32d5b7e99cb3ac&chksm=ea99a183ddee28956b225c116f3f4e5f0f246868dd5ce748e6f3dc1d55097017f4b2aa143710&scene=27) in Chinese.
 
 Abstract
 ------
