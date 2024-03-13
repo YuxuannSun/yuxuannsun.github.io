@@ -10,10 +10,15 @@ paperurl: ''
 citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.'
 ---
 
-Notice
-------
+<style>
+.footnote {
+    font-size: 14px;
+}
+</style>
+
 >* The following content is an excerpt and translation of the original paper, aimed at writing practicing and personal academic communication.
 >* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODY5Ng==&mid=2247554452&idx=1&sn=91500987edcb7d9cae32d5b7e99cb3ac&chksm=ea99a183ddee28956b225c116f3f4e5f0f246868dd5ce748e6f3dc1d55097017f4b2aa143710&scene=27) in Chinese.
+>* Still room for improvement.
 
 Abstract
 ------
@@ -64,6 +69,8 @@ Data sources and research method
 
 <center>Fig.3 The quantitative structure model</center>
 
+
+
 Result and analysis
 ------
 
@@ -78,6 +85,8 @@ Result and analysis
 ![Fig.4](/images/pub-images/paper-001-figure-004.jpg)
 
 <center>Fig.4 Model in the BIM environment</center>
+
+
 
 Discussion
 ------
@@ -97,3 +106,4 @@ In the future, this research could be expanded and further explored in the follo
 [^3]: [Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)
 
 [^4]: [Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)
+
