@@ -92,14 +92,18 @@ In the future, this research could be expanded and further explored in the follo
 
 * By optimizing the data processing, more quantitative data and information can be extracted and provided for the protection of ancient and famous trees.
 
+<style>
+.footnote {
+    font-size: 1.5em;
+}
+</style>
 
+[^1]: <span style="font-size: 1.5em;">[DIJKSTRA E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
 
-[^1]: <span style="font-size: 2em;">[DIJKSTRA E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
+[^2]: <span style="font-size: 1.5em;">[Hackenberg J, Morhart C, Sheppard J, et al. Highly accurate tree models derived from terrestrial laser scan data: A method description[J]. Forests, 2014, 5(5): 1069-1105.](https://doi.org/10.3390/f5051069)</span>
 
-[^2]: <span style="font-size: 2em;">[Hackenberg J, Morhart C, Sheppard J, et al. Highly accurate tree models derived from terrestrial laser scan data: A method description[J]. Forests, 2014, 5(5): 1069-1105.](https://doi.org/10.3390/f5051069)</span>
+[^3]: <span style="font-size: 1.5em;">[Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)</span>
 
-[^3]: <span style="font-size: 2em;">[Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)</span>
-
-[^4]: <span style="font-size: 2em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
+[^4]: <span style="font-size: 1.5em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
 
 
