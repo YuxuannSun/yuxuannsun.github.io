@@ -12,7 +12,7 @@ citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技�
 
 <style>
 .footnote {
-    font-size: 20px;
+    font-size: 50px;
 }
 </style>
 
