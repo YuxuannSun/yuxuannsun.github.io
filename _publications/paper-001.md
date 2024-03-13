@@ -38,9 +38,9 @@ Data sources and research method
 
 * This research continues to use Terrestrial Laser Scanning (TLS) on the old *Koelreuteria paniculata* in Yantai. Two sets of point cloud data for the tree and its surrounding environment were obtained in 2021 and 2023, serving as the primary data sources for the research.The visualized point cloud data is shown in Figure 1 and Figure 2.
 
-![Fig.1](_publications/pub-images/paper-001-figure-001.jpg)
+![Fig.1](https://github.com/YuxuannSun/yuxuannsun.github.io/tree/master/_publications/pub-images/paper-001-figure-001.jpg)
 
-![Fig.2](_publications/pub-images/paper-001-figure-002.jpg)
+![Fig.2](https://github.com/YuxuannSun/yuxuannsun.github.io/tree/master/_publications/pub-images/paper-001-figure-002.jpg)
 
 **Research method**
 
@@ -56,7 +56,7 @@ Data sources and research method
 
     * The preliminary model, due to noise interference, cannot fully reflect the true morphology of the tree. The radii of some branches do not match the actual values, thus requiring further refinement of the model. According to the pipe model theory proposed by Shinozaki et al. and based on the research by Côté et al., the radii model of some branches is adjusted. The algorithm generates cylindrical models to represent the trunk, with the bottom cylinder slightly higher than the ground elevation and with a certain degree of tilt. It needs to be extrapolated to the ground elevation to make the modeling results more accurate. After the data processing is completed and exported, the digital twin model of the tree is obtained.The QSM as the basis of digital twin model is shown in Figure 3.
 
-![Fig.3](_publications/pub-images/paper-001-figure-003.jpg)
+![Fig.3](https://github.com/YuxuannSun/yuxuannsun.github.io/tree/master/_publications/pub-images/paper-001-figure-003.jpg)
 
 Result and analysis
 ------
@@ -69,7 +69,7 @@ Result and analysis
 
 * The processed model of the tree is imported into the BIM/LIM environment, which can be combined with the point cloud data of the site, accurately reflecting the actual growth status of the old tree and its relationship with the surrounding environment. Visualizing and comparing the two sets of data in the BIM environment can reveal the dynamic changes of the tree, providing a technical path for further achieving dynamic monitoring of ancient trees and diagnosis based on monitoring results. The visualization result is shown in Figure 4.
 
-![Fig.4](_publications/pub-images/paper-001-figure-004.jpg)
+![Fig.4](https://github.com/YuxuannSun/yuxuannsun.github.io/tree/master/_publications/pub-images/paper-001-figure-004.jpg)
 
 Discussion
 ------
