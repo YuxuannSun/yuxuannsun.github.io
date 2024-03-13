@@ -42,9 +42,9 @@ Student work and Awards
 ------
 
 * **2023**<br>
-  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm)(by [Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University).<br>
+  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University).<br>
 
-  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University)(by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)).<br>
+  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)).<br>
 
 * **2018**<br>
   * Undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.<br>
