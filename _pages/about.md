@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
->I'm now looking for an opportunity as a visiting student/research assistant, hoping to join a suitable research team to further my study.
+>I'm now looking for opportunities as an intern/visiting student/research assistant in a suitable research team to further my study.
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
