@@ -40,7 +40,11 @@ Data sources and research method
 
 ![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
 
+<center>Fig.1 Data collected in 2021</center>
+
 ![Fig.2](/images/pub-images/paper-001-figure-002.jpg)
+
+<center>Fig.2 Data collected in 2023</center>
 
 **Research method**
 
@@ -58,6 +62,8 @@ Data sources and research method
 
 ![Fig.3](/images/pub-images/paper-001-figure-003.jpg)
 
+<center>Fig.3 The quantitative structure model</center>
+
 Result and analysis
 ------
 
@@ -71,11 +77,13 @@ Result and analysis
 
 ![Fig.4](/images/pub-images/paper-001-figure-004.jpg)
 
+<center>Fig.4 Model in the BIM environment</center>
+
 Discussion
 ------
 
 In the future, this research could be expanded and further explored in the following aspects:
 
-* It is possible to integrate with the Internet of Things (IoT) and the information systems to provide dynamic monitoring methods for the protection of ancient and famous trees in the future.
+* It is possible to integrate with the Internet of Things (IoT) and the information systems to provide dynamic monitoring methods for the protection of ancient and famous trees.
 
 * By optimizing the data processing, more quantitative data and information can be extracted and provided for the protection of ancient and famous trees.
