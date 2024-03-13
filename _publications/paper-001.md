@@ -11,8 +11,8 @@ citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技�
 ---
 
 <style>
-.footnote {
-    font-size: 50px;
+custom-footnote {
+    font-size: 20px;
 }
 </style>
 
@@ -98,6 +98,7 @@ In the future, this research could be expanded and further explored in the follo
 * By optimizing the data processing, more quantitative data and information can be extracted and provided for the protection of ancient and famous trees.
 
 
+<span class="custom-footnote">
 
 [^1]: [DIJKSTRA E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)
 
@@ -107,3 +108,4 @@ In the future, this research could be expanded and further explored in the follo
 
 [^4]: [Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)
 
+</span>
