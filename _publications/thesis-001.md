@@ -1,19 +1,22 @@
 ---
 layout: archive
-title: "Research on the application of digital twin technology for the protection of ancient and famous trees (Original paper in Chinese)"
+title: "Research on Cryopreservation of 24 Seeds of the Landscape Trees (Original paper in Chinese)"
 collection: Publications
-permalink: /Publications/paper-001
+permalink: /Publications/thesis-001
 excerpt: ''
-date: 2023-10-20
-venue: '数字景观——中国第六届数字景观学术论坛'
+date: 2018
+venue: 'Beijing Forestry University'
 paperurl: ''
-citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.'
+citation: ''
 ---
 
 
 
->* The following content is an excerpt and translation of the original paper, aimed at writing practicing and personal academic communication.
->* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODY5Ng==&mid=2247554452&idx=1&sn=91500987edcb7d9cae32d5b7e99cb3ac&chksm=ea99a183ddee28956b225c116f3f4e5f0f246868dd5ce748e6f3dc1d55097017f4b2aa143710&scene=27) in Chinese.
+>* The following content is an excerpt and translation of my undergraduate thesis, aimed at knowledge reviewing, writing practicing and personal academic communication.
+>* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
+>* The thesis was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly influence those around her, benefitting students for life.
+
+<!-->
 
 Abstract
 ------
@@ -38,11 +41,11 @@ Data sources and research method
 
 * This research continues to use Terrestrial Laser Scanning (TLS) on the old *Koelreuteria paniculata* in Yantai. Two sets of point cloud data for the tree and its surrounding environment were obtained in 2021 and 2023, serving as the primary data sources for the research.The visualized point cloud data is shown in Figure 1 and Figure 2.
 
-![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
+![Fig.1](/images/pub-images/thesis-001-figure-001.jpg)
 
 <center>Fig.1 Data collected in 2021</center>
 
-![Fig.2](/images/pub-images/paper-001-figure-002.jpg)
+![Fig.2](/images/pub-images/thesis-001-figure-002.jpg)
 
 <center>Fig.2 Data collected in 2023</center>
 
@@ -60,7 +63,7 @@ Data sources and research method
 
     * The preliminary model, due to noise interference, cannot fully reflect the true morphology of the tree. The radii of some branches do not match the actual values, thus requiring further refinement of the model. According to the pipe model theory proposed by Shinozaki et al.[^3] and based on the research by Côté et al.[^4], the radii model of some branches is adjusted. The algorithm generates cylindrical models to represent the trunk, with the bottom cylinder slightly higher than the ground elevation and with a certain degree of tilt. It needs to be extrapolated to the ground elevation to make the modeling results more accurate. After the data processing is completed and exported, the digital twin model of the tree is obtained.The QSM as the basis of digital twin model is shown in Figure 3.
 
-![Fig.3](/images/pub-images/paper-001-figure-003.jpg)
+![Fig.3](/images/pub-images/thesis-001-figure-003.jpg)
 
 <center>Fig.3 The quantitative structure model</center>
 
@@ -77,7 +80,7 @@ Result and analysis
 
 * The processed model of the tree is imported into the BIM/LIM environment, which can be combined with the point cloud data of the site, accurately reflecting the actual growth status of the old tree and its relationship with the surrounding environment. Visualizing and comparing the two sets of data in the BIM environment can reveal the dynamic changes of the tree, providing a technical path for further achieving dynamic monitoring of ancient trees and diagnosis based on monitoring results. The visualization result is shown in Figure 4.
 
-![Fig.4](/images/pub-images/paper-001-figure-004.jpg)
+![Fig.4](/images/pub-images/thesis-001-figure-004.jpg)
 
 <center>Fig.4 Model in the BIM environment</center>
 

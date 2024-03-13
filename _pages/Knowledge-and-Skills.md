@@ -13,31 +13,31 @@ The following are the knowledge and skills I have acquired through undergraduate
 
 * **Geo-Science:** Fundamental knowledge.
 
-  * Learned by degree course: Foundation of Landscape Geo-Science (by [Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
+  * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
 * **Ecology:** Fundamental knowledge.
 
-  * Learned by degree course: Theory and Practice of Ecological Restoration (by [Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306)).
+  * Learned by degree course: Theory and Practice of Ecological Restoration (by [Prof. Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306)).
 
 * **Plant Science:** Fundamental knowledge and practicing skills.
 
   * Learned by undergraduate/graduate degree courses such as: Plant Physiology, Floriculture, Dendrology, etc.
 
-  * Practiced by undergraduate thesis: "Study on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)).
+  * Practiced by undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)).
 
 * **Remote sensing:** Fundamental knowledge.
 
-  * Learned by non-degree course: Theory and Application of Remote Sensing (by [Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
+  * Learned by non-degree course: Theory and Application of Remote Sensing (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
 * **GIS:** Fundamental knowledge and application skills.
 
-  * Learned by non-degree course: Spatial  Analysis and Application of GIS (by [Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
+  * Learned by non-degree course: Spatial  Analysis and Application of GIS (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
-  * Practiced by degree course: Regional Landscape Planning STUDIO (by [Hailong Liu](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/1794) and [Zhicong Zhao](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1972)).
+  * Practiced by degree course: Regional Landscape Planning STUDIO (by [Prof. Hailong Liu](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/1794) and [Prof. Zhicong Zhao](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1972)).
 
 * **BIM:** Fundamental knowledge and application skills.
 
-  * Learned and Practiced by degree course: Landscape Architecture Technology (by [Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and practical project.
+  * Learned and Practiced by degree course: Landscape Architecture Technology (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and practical project.
 
 * **Math:** Fundamental knowledge of Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics.
 
@@ -74,6 +74,6 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * English: 
     * Currently preparing for the IELTS exam while simultaneously improving reading and writing skills by reading academic papers and maintaining personal website.
-    * Recently practiced by degree course: Academic English for Master Students (by [Miriam Frank](https://www.lc.tsinghua.edu.cn/info/1011/1295.htm)).
+    * Recently practiced by degree course: Academic English for Master Students (by [Ms. Miriam Frank](https://www.lc.tsinghua.edu.cn/info/1011/1295.htm)).
     * Former Grades: CET-4: 493, CET-6: 422.
 
