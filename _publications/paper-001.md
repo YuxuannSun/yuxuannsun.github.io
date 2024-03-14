@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research on the application of digital twin technology for the protection of ancient and famous trees (Original paper in Chinese)"
+title: "Conference paper: Research on the application of digital twin technology for the protection of ancient and famous trees (Originally written in Chinese)"
 collection: Publications
 permalink: /Publications/paper-001
 excerpt: ''

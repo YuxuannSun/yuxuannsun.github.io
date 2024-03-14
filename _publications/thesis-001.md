@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research on Cryopreservation of 24 Seeds of the Landscape Trees (Original paper in Chinese)"
+title: "Thesis: Research on Cryopreservation of 24 Seeds of the Landscape Trees (Originally written in Chinese)"
 collection: Publications
 permalink: /Publications/thesis-001
 excerpt: ''
