@@ -7,9 +7,9 @@ excerpt: ''
 date: 2023-10-20
 venue: '数字景观——中国第六届数字景观学术论坛'
 paperurl: ''
-citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.'
----
 
+---
+<!--citation: '郭湧, 孙宇轩. 面向古树名木保护的数字孪生树木技术应用研究[C]//数字景观——中国第六届数字景观学术论坛, 2023.'-->
 
 
 >* The following content is an excerpt and translation of the original paper, aimed at writing practicing and personal academic communication.

@@ -7,9 +7,9 @@ excerpt: ''
 date: 2018-07-01
 venue: 'Beijing Forestry University'
 paperurl: ''
-citation: ''
----
 
+---
+<!--citation: ''-->
 
 
 >* The following content is an excerpt and translation of my undergraduate thesis, aimed at knowledge reviewing, writing practicing and personal academic communication.
