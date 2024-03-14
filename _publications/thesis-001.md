@@ -12,7 +12,7 @@ author_profile: false
 <!--citation: ''-->
 
 
->* The following content is an excerpt and translation of my undergraduate thesis, aimed at knowledge reviewing, writing practicing and personal academic communication.
+>* The following content is an excerpt and translation of my undergraduate thesis, aimed at personal knowledge reviewing, writing practicing and academic communication.
 >* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
 >* The thesis was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly influence those around her, benefitting students for life.
 
