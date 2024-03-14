@@ -4,7 +4,7 @@ title: "Research on Cryopreservation of 24 Seeds of the Landscape Trees (Origina
 collection: Publications
 permalink: /Publications/thesis-001
 excerpt: ''
-date: 2018
+date: 2018-07-01
 venue: 'Beijing Forestry University'
 paperurl: ''
 citation: ''
