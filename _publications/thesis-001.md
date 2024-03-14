@@ -16,7 +16,7 @@ citation: ''
 >* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
 >* The thesis was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly influence those around her, benefitting students for life.
 
-<!-->
+<!--
 
 Abstract
 ------
@@ -104,5 +104,8 @@ In the future, this research could be expanded and further explored in the follo
 [^3]: <span style="font-size: 1.8em;">[Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)</span>
 
 [^4]: <span style="font-size: 1.8em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
+
+
+-->
 
 
