@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About"
 author_profile: true
@@ -56,4 +57,4 @@ Student work and Awards
 
 
 
-[^1]: [J. Vos, J. B. Evers, G. H. Buck-Sorlin, B. Andrieu, M. Chelle, P. H. B. de Visser, Functional–structural plant modelling: a new versatile tool in crop science, Journal of Experimental Botany, Volume 61, Issue 8, May 2010, Pages 2101–2115](https://doi.org/10.1093/jxb/erp345)
+[^1]: <span style="font-size: 1.8em;">[J. Vos, J. B. Evers, G. H. Buck-Sorlin, B. Andrieu, M. Chelle, P. H. B. de Visser, Functional–structural plant modelling: a new versatile tool in crop science, Journal of Experimental Botany, Volume 61, Issue 8, May 2010, Pages 2101–2115](https://doi.org/10.1093/jxb/erp345)</span>
