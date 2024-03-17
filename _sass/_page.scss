@@ -11,11 +11,11 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  /*
+  
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
-  */
+  
 }
 
 .page {
@@ -136,11 +136,11 @@
       padding-left: 1em;
       padding-right: 1em;
 
-      /*
+      
       @include breakpoint($x-large) {
         max-width: $x-large;
       }
-      */
+      
     }
 
     .page__title,
