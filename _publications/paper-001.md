@@ -15,6 +15,15 @@ author_profile: true
 >* The following content is an excerpt and translation of the original paper, aimed at personal writing practicing and academic communication.
 >* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODY5Ng==&mid=2247554452&idx=1&sn=91500987edcb7d9cae32d5b7e99cb3ac&chksm=ea99a183ddee28956b225c116f3f4e5f0f246868dd5ce748e6f3dc1d55097017f4b2aa143710&scene=27) in Chinese.
 
+- [Abstract](#abstract)
+- [Data sources and research method](#data-sources-and-research-method)
+  - [Data sources](#data-sources)
+  - [Research method](#research-method)
+- [Result and analysis](#result-and-analysis)
+  - [Structural parameters and analysis](#structural-parameters-and-analysis)
+  - [Interaction with BIM/LIM environment and visualization](#interaction-with-bimlim-environment-and-visualization)
+- [Discussion](#discussion)
+
 Abstract
 ------
 
@@ -29,12 +38,9 @@ Abstract
     * Digital basis and support for the design, construction, and operation of landscape architecture engineering projects.
     * Application pathways and directions for digital twin technology.
 
+## Data sources and research method
 
-
-Data sources and research method
-------
-
-**Data sources**
+### Data sources
 
 * This research continues to use Terrestrial Laser Scanning (TLS) on the old *Koelreuteria paniculata* in Yantai. Two sets of point cloud data of the tree and its surrounding environment were obtained in 2021 and 2023, serving as the primary data sources for the research.The visualized point cloud data is shown in Figure 1 and Figure 2.
 
@@ -46,7 +52,7 @@ Data sources and research method
 
 <center>Fig.2 Data collected in 2023</center>
 
-**Research method**
+### Research method
 
 * Pre-processing of point cloud data and Segmentation of the individual tree
 
@@ -66,14 +72,13 @@ Data sources and research method
 
 
 
-Result and analysis
-------
+## Result and analysis
 
-**Structural parameters and analysis**
+### Structural parameters and analysis
 
 * Based on the above method, two sets of models of the tree and their data were obtained. Quantitative data analysis was conducted in R to examine specific structural parameters.The data reflects the actual growth status of the tree, and the results observed on-site are consistent with the information reflected in the digital model.
 
-**Interaction with BIM/LIM environment and visualization**
+### Interaction with BIM/LIM environment and visualization
 
 * The processed model of the tree is imported into the BIM/LIM environment, which can be combined with the point cloud data of the site, accurately reflecting the actual growth status of the old tree and its relationship with the surrounding environment. Visualizing and comparing the two sets of data in the BIM environment can reveal the dynamic changes of the tree, providing a technical path for further achieving dynamic monitoring of ancient trees and diagnosis based on monitoring results. The visualization result is shown in Figure 4.
 
@@ -83,8 +88,7 @@ Result and analysis
 
 
 
-Discussion
-------
+## Discussion
 
 In the future, this research could be expanded and further explored in the following aspects:
 
