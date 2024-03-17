@@ -381,6 +381,7 @@
    ========================================================================== */
 
 .page__related {
+  font-size: $type-size-8;
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
@@ -399,6 +400,6 @@
 
 .page__related-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
   text-transform: uppercase;
 }
