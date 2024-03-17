@@ -13,7 +13,8 @@
 
   
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    @include span(12 of 12);
+    /*max-width: $x-large;*/
   }
 
   @include breakpoint($medium) {
@@ -147,7 +148,8 @@
 
       
       @include breakpoint($x-large) {
-        max-width: $x-large;
+        @include span(12 of 12);
+        /*max-width: $x-large;*/
       }
       
     }
