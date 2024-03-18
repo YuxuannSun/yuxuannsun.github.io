@@ -63,7 +63,7 @@ Student work and Awards
 
 * **2015**
 
-  * Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture.
+  * Served as the presenter for the team of "[Survey and Conservation Strategy Research Project of Ancient and Famous Trees in Wuhan, China](https://yuxuannsun.github.io/posts/2015/07/blog-project-001)" , and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture.
 
 
 
