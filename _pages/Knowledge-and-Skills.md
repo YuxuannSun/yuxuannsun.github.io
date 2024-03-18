@@ -23,7 +23,7 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Learned by undergraduate/graduate degree courses such as: Plant Physiology, Floriculture, Dendrology, etc.
 
-  * Practiced by undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)).
+  * Practiced by undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)).
 
 * **Remote sensing:** Fundamental knowledge.
 
