@@ -8,6 +8,8 @@ tags:
   - Algorithm
 ---
 
+Algorithm:
+
 Original paper: Rusu, Radu Bogdan, et al. "Towards 3D point cloud based object maps for household environments." Robotics and Autonomous Systems 56.11 (2008): 927-941. [https://doi.org/10.1016/j.robot.2008.08.005](https://doi.org/10.1016/j.robot.2008.08.005)
 
 This is a record of the reading process, aimed at personal learning, reading and writing practicing.

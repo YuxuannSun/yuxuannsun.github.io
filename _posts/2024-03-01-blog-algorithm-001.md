@@ -8,6 +8,8 @@ tags:
   - Algorithm
 ---
 
+Algorithm: Principal components analysis (PCA)
+
 Original paper: Hotelling, Harold. "Analysis of a complex of statistical variables into principal components." Journal of educational psychology 24.6 (1933): 417. [https://doi.org/10.1037/h0071325](https://doi.org/10.1037/h0071325)
 
 This is a record of the reading process, aimed at personal learning, reading and writing practicing.
