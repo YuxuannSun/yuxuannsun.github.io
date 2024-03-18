@@ -10,55 +10,53 @@ tags:
 
 Algorithm: Principal components analysis (PCA)
 
-Original paper: Hotelling, Harold. "Analysis of a complex of statistical variables into principal components." Journal of educational psychology 24.6 (1933): 417. [https://doi.org/10.1037/h0071325](https://doi.org/10.1037/h0071325)
-
 This is a record of the reading process, aimed at personal learning, reading and writing practicing.
 
-- [Abstract](#abstract)
-- [1 Introduction](#1-introduction)
-  - [1.1 Related Work](#11-related-work)
-    - [1.1.1 Methods in Computational Forestry producing QSMs of the Branching Structure](#111-methods-in-computational-forestry-producing-qsms-of-the-branching-structure)
-    - [1.1.2 Methods in Computer Vision producing QSMs of the Branching Structure](#112-methods-in-computer-vision-producing-qsms-of-the-branching-structure)
-    - [1.1.3 Further Open Source Tree Modelling Software and Point Cloud Processing Libraries](#113-further-open-source-tree-modelling-software-and-point-cloud-processing-libraries)
-  - [1.2 Relevance of the Presented Work in the State of the Art](#12-relevance-of-the-presented-work-in-the-state-of-the-art)
-  - [1.3 Structure of the Manuscript](#13-structure-of-the-manuscript)
-- [2 Software—SimpleTree](#2-softwaresimpletree)
-  - [2.1. Filter and Clustering Routines](#21-filter-and-clustering-routines)
 
 
-* PCA（主成分分析）是一种用于降维和数据可视化的技术，它通过线性变换将数据投影到一个新的坐标系中，以便使得数据的方差在新坐标系下被最大化。
+主成分分析（PCA）是由卡尔·皮尔逊（Karl Pearson）在1901年提出的。虽然他是第一个将这一概念应用于数据分析的人，但是PCA的数学形式和现代的理解则是由哈罗德·霍特林（Harold Hotelling）在1933年进一步发展和推广的。
+
+>Reference: 
+>KPFRS, LIII. "On lines and planes of closest fit to systems of points in space." Proceedings of the 17th ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems (SIGMOD). 1901.
+>Hotelling, Harold. "Analysis of a complex of statistical variables into principal components." Journal of educational psychology 24.6 (1933): 417. [https://doi.org/10.1037/h0071325](https://doi.org/10.1037/h0071325)
+
+主成分分析（Principal Component Analysis，PCA）是一种常用的统计方法，用于降低数据维度并发现数据中的结构。它**通过线性变换将高维数据投影到一个低维子空间中，以便保留尽可能多的原始数据的变异性**。
+
+>* 方差最大化原则：主成分分析（PCA）的目标是找到投影方向，使得数据在这个方向上的方差最大化。这意味着投影后的数据能够尽可能地保留原始数据的变异性。通过选择最大方差的方向作为第一个主成分，依次选择其余方向的主成分，可以逐步捕捉数据中的变异性。
+>* 特征向量的选择：在PCA中，投影方向由数据的特征向量确定。特征向量是协方差矩阵的特征值对应的向量，它们表示了数据中的主要方向。选择协方差矩阵的前几个特征向量对应的特征值较大的方向作为主成分，能够最大程度地保留原始数据的方差，因此可以保留尽可能多的原始数据的变异性。
 
 
-**主成分分析（PCA）**
-    **基本原理：**
+基本原理：
 
-    PCA的基本思想是将原始数据投影到一个新的坐标系中，使得投影后的数据在各个坐标轴上的方差尽可能大，从而保留数据中的大部分信息。具体步骤如下：
+PCA的基本思想是将原始数据投影到一个新的坐标系中，使得投影后的数据在各个坐标轴上的方差尽可能大，从而保留数据中的大部分信息。
 
-  1. 计算数据的协方差矩阵。
-  2. 对协方差矩阵进行特征值分解，得到特征值和对应的特征向量。
-  3. 将特征向量按照特征值大小降序排列，选取其中方差最大的前几个特征向量作为新的坐标轴。
-  4. 将原始数据投影到选取的特征向量构成的新的低维空间中。
+算法步骤：
 
-    **应用：**
+* 标准化数据：将原始数据按列进行标准化处理，使得每个特征的均值为0，方差为1。
+* 计算协方差矩阵：对标准化后的数据计算协方差矩阵。
 
-  - 降维：PCA可以用于降低数据的维度，保留数据中的主要信息，从而减少计算量和存储空间。
-  - 数据可视化：通过将高维数据映射到二维或三维空间中，可以更容易地对数据进行可视化分析。
-  - 去噪：PCA可以帮助去除数据中的噪声，保留数据中的信号部分。
-  - 特征提取：PCA可以用于提取数据中的主要特征，从而更好地理解数据的结构和特点。
+  >* 协方差矩阵是描述多个随机变量之间关系的重要工具。在统计学和线性代数中，协方差矩阵提供了变量之间的协方差信息，从而反映它们的相关性和变化趋势。假设我们有一个包含多个随机变量的数据集，其中包括 \( n \) 个变量（维度）。协方差矩阵是一个 \( n \times n \) 的矩阵，其中第 \( i \) 行第 \( j \) 列的元素表示第 \( i \) 个变量和第 \( j \) 个变量之间的协方差。对角线上的元素是各个变量的方差，非对角线上的元素是不同变量之间的协方差。
+  >* 其中 \( cov(X_i, X_j) \) 表示变量 \( X_i \) 和 \( X_j \) 之间的协方差。
+  >* 在主成分分析（PCA）中，协方差矩阵是关键的，因为它提供了数据的特征信息。通过对协方差矩阵进行特征值分解，我们可以得到数据的主要方向（即主成分），从而实现数据的降维和特征提取。
 
-    **算法步骤：**
 
-  1. 标准化数据：将原始数据按列进行标准化处理，使得每个特征的均值为0，方差为1。
-  2. 计算协方差矩阵：对标准化后的数据计算协方差矩阵。
-  3. 特征值分解：对协方差矩阵进行特征值分解，得到特征值和对应的特征向量。
-  4. 选取主成分：根据特征值的大小，选取前几个特征向量作为主成分。
-  5. 数据投影：将原始数据投影到选取的主成分构成的新的低维空间中。
+* 特征值分解：对协方差矩阵进行特征值分解，得到特征值和对应的特征向量。
+* 选取主成分：根据特征值的大小，选取前几个特征向量作为主成分。
+* 数据投影：将原始数据投影到选取的主成分构成的新的低维空间中。
 
-    **注意：**
+应用：
 
-  - 数据的标准化对PCA的结果影响很大，需要在进行PCA之前对数据进行标准化处理。
-  - PCA对数据的线性关系敏感，如果数据存在非线性关系，PCA可能无法有效提取数据的结构信息。
-  - 选择合适的主成分数量是一个重要的问题，通常可以通过保留一定比例的方差来确定主成分的数量。
+* 降维：PCA可以用于降低数据的维度，保留数据中的主要信息，从而减少计算量和存储空间。
+* 数据可视化：通过将高维数据映射到二维或三维空间中，可以更容易地对数据进行可视化分析。
+* 去噪：PCA可以帮助去除数据中的噪声，保留数据中的信号部分。
+* 特征提取：PCA可以用于提取数据中的主要特征，从而更好地理解数据的结构和特点。
+
+注意：
+
+* 数据的标准化对PCA的结果影响很大，需要在进行PCA之前对数据进行标准化处理。
+* PCA对数据的线性关系敏感，如果数据存在非线性关系，PCA可能无法有效提取数据的结构信息。
+* 选择合适的主成分数量是一个重要的问题，通常可以通过保留一定比例的方差来确定主成分的数量。
+
 
 
 
