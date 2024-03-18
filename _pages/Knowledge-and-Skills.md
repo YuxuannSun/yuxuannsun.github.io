@@ -41,15 +41,15 @@ The following are the knowledge and skills I have acquired through undergraduate
 
 * **Math:** Fundamental knowledge of Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics.
 
-  * Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
+  * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
 * **Data Structure:** Fundamental knowledge.
 
-  * Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
+  * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
 * **Computer Programming:** Fundamental knowledge and experience in using *Python* and *R*.
 
-  * Learned by self-study using resources from [Github](https://github.com/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
+  * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
 
@@ -63,7 +63,7 @@ The following are the knowledge and skills I have acquired through undergraduate
 
 * **Deep Learning:** Fundamental Knowledge and some cutting-edge Research Work in recent years.
 
-  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), and papers from [Arxiv](https://arxiv.org/) and International Conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
+  * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), and papers from [Arxiv](https://arxiv.org/) and International Conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
 
