@@ -36,27 +36,37 @@ My research interests are in **point clouds data processing**, **plant modeling*
 Education
 ------
 
-* **2022-**<br>
+* **2022-**
+
   * Master's student, Department of Landscape Architecture, Tsinghua University, China.<br>
 
-* **2014-2018**<br>
+* **2014-2018**
+
   * Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China.<br>
 
 Student work and Awards
 ------
 
-* **2023**<br>
-  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University).<br>
+* **2023**
 
-  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)).<br>
+  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
+    * An University-wide optional course, taken by students from diverse academic backgrounds.
+    * Helping undergraduate student major in Life Science, Art etc. to reconstruct the 3-D geometric modle of an old, huge *Styphnolobium japonicum* in [National Botanical Garden of China](https://www.chnbg.cn/en_home) from point cloud data.
 
-* **2018**<br>
-  * Undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.<br>
+  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
+    * A required course for undergraduate student from Department of Landscape Architecture.
+    * Collaborating with students to utilize Terrestrial Laser Scanning (TLS) to scan campus scenes and assist in visualizing point clouds in CloudCompare.
 
-* **2015**<br>
-  * Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture.<br>
+* **2018**
+  
+  * Undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.
+
+* **2015**
+
+  * Served as the presenter for the Wuhan Ancient and Famous Tree Survey and Conservation Strategy Research Project team, and was awarded the third prize for Excellent Summer Social Practice by the School of Landscape Architecture.
 
 
 
-
+<!--
 [^1]: <span style="font-size: 1.8em;">[J. Vos, J. B. Evers, G. H. Buck-Sorlin, B. Andrieu, M. Chelle, P. H. B. de Visser, Functional–structural plant modelling: a new versatile tool in crop science, Journal of Experimental Botany, Volume 61, Issue 8, May 2010, Pages 2101–2115](https://doi.org/10.1093/jxb/erp345)</span>
+-->
