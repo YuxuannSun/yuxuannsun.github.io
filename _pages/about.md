@@ -38,11 +38,11 @@ Education
 
 * **2022-**
 
-  * Master's student, Department of Landscape Architecture, Tsinghua University, China.<br>
+  * Master's student, Department of Landscape Architecture, Tsinghua University, China.
 
 * **2014-2018**
 
-  * Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China.<br>
+  * Bachelor of Agriculture, School of Landscape Architecture, Beijing Forestry University, China.
 
 Student work and Awards
 ------
@@ -59,7 +59,7 @@ Student work and Awards
 
 * **2018**
   
-  * Undergraduate thesis: "Research on Cryopreservation of 24 Seeds of the Landscape Trees" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.
+  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)) was awarded as an Excellent Undergraduate Thesis of the class of 2018 at Beijing Forestry University.
 
 * **2015**
 
