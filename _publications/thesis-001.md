@@ -144,7 +144,20 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 * Seed viability was evaluated based on the stained area, categorized as "+", "++", or "+++", respectively represented staining areas of 0-30%, 30%-60%, and 60%-100%, to indicate the degree of staining.
 * Examples of stained seeds are illustrated in Figure 1.
 
-![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/images/pub-images/thesis-001-figure-001-01.png" alt="Degree of staining '+'">
+        <p>Degree of staining '+'</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/images/pub-images/thesis-001-figure-001-02.png" alt="Degree of staining '++'">
+        <p>Degree of staining '++'</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/images/pub-images/thesis-001-figure-001-03.png" alt="Degree of staining '+++'">
+        <p>Degree of staining '+++'</p>
+    </div>
+</div>
 
 <center><b>Fig.1 Moisture content of the seeds</b></center>
 
@@ -184,11 +197,120 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 
 #### 3.1.1 Record of seed size and morphology
 
-* The morphology and size of part of the tested seeds are depicted in Figure 2.
+* The size and morphology of the tested seeds are depicted in Figure 2.
 
-![Fig.2](/images/pub-images/paper-001-figure-001.jpg)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <!-- line 1 -->
+    <div style="display: flex; justify-content: space-around;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-01.png" alt="Acer buergerianum">
+            <p><em>Acer buergerianum</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-02.png" alt="Acer palmatum">
+            <p><em>Acer palmatum</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-03.png" alt="Acer palmatum ‘Atropurpureum">
+            <p><em>Acer palmatum ‘Atropurpureum’</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-04.png" alt="Acer truncatum">
+            <p><em>Acer truncatum</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-05.png" alt="Cotinus coggygria">
+            <p><em>Cotinus coggygria</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-06.png" alt="Berberis thunbergii ‘Atropurpurea’">
+            <p><em>Berberis thunbergii ‘Atropurpurea’</em></p>
+        </div>
+    </div>
+    <!-- line 2 -->
+    <div style="display: flex; justify-content: space-around;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-07.png" alt="Betula platyphylla">
+            <p><em>Betula platyphylla</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-08.png" alt="Buxus sinica">
+            <p><em>Buxus sinica</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-09.png" alt="Chimonanthus praecox">
+            <p><em>Chimonanthus praecox</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-10.png" alt="Lonicera maackii">
+            <p><em>Lonicera maackii</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-11.png" alt="Cephalotaxus sinensis">
+            <p><em>Cephalotaxus sinensis</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-12.png" alt="Cornus kousa subsp. chinensis">
+            <p><em>Cornus kousa subsp. chinensis</em></p>
+        </div>
+    </div>
+    <!-- line 3 -->
+    <div style="display: flex; justify-content: space-around;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-13.png" alt="Cornus officinalis">
+            <p><em>Cornus officinalis</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-14.png" alt="Liquidambar formosana">
+            <p><em>Liquidambar formosana</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-15.png" alt="Albizia julibrissin">
+            <p><em>Albizia julibrissin</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-16.png" alt="Cercis chinensis">
+            <p><em>Cercis chinensis</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-17.png" alt="Gleditsia sinensis">
+            <p><em>Gleditsia sinensis</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-18.png" alt="Magnolia denudata">
+            <p><em>Magnolia denudata</em></p>
+        </div>
+    </div>
+    <!-- line 4 -->
+    <div style="display: flex; justify-content: space-around;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-19.png" alt="Chionanthus retusus">
+            <p><em>Chionanthus retusus</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-20.png" alt="Forsythia suspensa">
+            <p><em>Forsythia suspensa</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-21.png" alt="Syringa oblata">
+            <p><em>Syringa oblata</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-22.png" alt="Koelreuteria paniculata">
+            <p><em>Koelreuteria paniculata</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-23.png" alt="Paulownia tomentosa">
+            <p><em>Paulownia tomentosa</em></p>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+            <img src="/images/pub-images/thesis-001-figure-002-24.png" alt="Ailanthus altissima">
+            <p><em>Ailanthus altissima</em></p>
+        </div>
+    </div>
+</div>
 
-<center><b>Fig.2 Moisture content of the seeds</b></center>
+<center><b>Fig.2 The size and morphology of the seeds</b></center>
 
 #### 3.1.2 Determination results of seed moisture 
 
