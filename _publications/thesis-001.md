@@ -133,7 +133,7 @@ Abstract
 * Unit in grams, rounded to 3 decimal places.
 * The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100\% \quad (1) $$ 
+$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right.) \times 100\% \quad (1) $$ 
 
 #### 2.2.3 Determination of seed viability
 
@@ -287,7 +287,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
   </tr>
 </table>
 
-**Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).**
+<span style="font-size: 0.8em;">Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).</span>
 
 * There was a significant difference between the *Albizia julibrissin* subjected to liquid nitrogen storage for no less than 30 days and the control treatment, indicating a significant promotion of germination for *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days.
 
@@ -341,7 +341,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
   </tr>
 </table>
 
-**Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).**
+<span style="font-size: 0.8em;">Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).</span>
 
 * From the perspective of the time required for the first seed to germinate, there was a significant difference in the *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days compared to the storage for 10 days in liquid nitrogen and the control treatment.
 * This indicates that the treatment of liquid nitrogen storage for no less than 30 days prolonged the time required for *Albizia julibrissin* to germinate to a certain extent, while the treatment of liquid nitrogen storage for 10 days had no significant effect on the time required for *Albizia julibrissin* to germinate.
