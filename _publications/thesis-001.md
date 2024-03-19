@@ -11,36 +11,6 @@ author_profile: true
 ---
 <!--citation: ''-->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Table with Row Borders</title>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  th, td {
-    border: 1px solid #dddddd;
-    text-align: center; /* 居中对齐 */
-    padding: 8px;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-
-  tr:nth-child(odd) {
-    background-color: #f9f9f9; /* 更改奇数行的背景颜色 */
-  }
-</style>
-</head>
-<body>
-
-
 >* The following content is an excerpt and translation of my undergraduate thesis, aimed at personal knowledge reviewing and writing practicing.
 >* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
 >* The thesis was supported by the National Engineering Research Center for Floriculture, China, and was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
@@ -485,3 +455,31 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 [^4]: <span style="font-size: 1.8em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Table with Row Borders</title>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: center; /* 居中对齐 */
+    padding: 8px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #f9f9f9; /* 更改奇数行的背景颜色 */
+  }
+</style>
+</head>
+<body>
