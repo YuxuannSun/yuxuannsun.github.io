@@ -14,7 +14,7 @@ author_profile: true
 
 >* The following content is an excerpt and translation of my undergraduate thesis, aimed at personal knowledge reviewing and writing practicing.
 >* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
->* The thesis was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
+>* The thesis was supported by the National Engineering Research Center for Floriculture, China, and was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
 
 - [Abstract](#abstract)
 - [1 Introduction](#1-introduction)
@@ -85,7 +85,7 @@ Abstract
 
 * The study utilized seeds from 24 common landscape tree species as experimental materials.
 
-Table.1 Catalogue of the species
+**Table.1 Catalogue of the species**
 
 | **Number** |     ***Name***      |    ***Family***    |
 |:----------:|:-------------------------------:|:------------------:|
@@ -201,33 +201,35 @@ Table.1 Catalogue of the species
 * The moisture content of the tested seeds was determined under normal room temperature conditions.
 * Specific results can be found in Table 2.
 
-Table 2. Moisture content of the seeds
-| **Number** |     ***Name***      |    **moisture content / %**    |
-|:----------:|:-------------------------------:|:------------------:|
-|    01      |       *Acer buergerianum*      |     6.7±0.058    |
-|    02      |        *Acer palmatum*         |     8.4±0.071    |
-|    03      | *Acer palmatum 'Atropurpureum'*|     5.1±0.032    |
-|    04      |        *Acer truncatum*        |     7.2±0.108    |
-|    05      |       *Cotinus coggygria*      |   6.5±0.235  |
-|    06      | *Berberis thunbergii 'Atropurpurea'*| 7.2±0.057|
-|    07      |      *Betula platyphylla*      |     6.3±0.211   |
-|    08      |        *Buxus sinica*          |      7.3±0.152    |
-|    09      |    *Chimonanthus praecox*      |  7.8±0.073  |
-|    10      |       *Lonicera maackii*       |  7.6±0.059  |
-|    11      |   *Cephalotaxus sinensis*      | 6.9±0.195  |
-|    12      | *Cornus kousa subsp. chinensis*|     6.6±0.373    |
-|    13      |       *Cornus officinalis*     |     7.5±0.088    |
-|    14      |    *Liquidambar formosana*     |  6.8±0.061  |
-|    15      |      *Albizia julibrissin*     |    3.9±0.055   |
-|    16      |       *Cercis chinensis*       |    8.3±0.247   |
-|    17      |     *Gleditsia sinensis*       |    6.7±0.147   |
-|    18      |      *Magnolia denudata*       |   5.5±0.318   |
-|    19      |    *Chionanthus retusus*       |     4.5±0.067     |
-|    20      |     *Forsythia suspensa*       |     5.6±0.074     |
-|    21      |       *Syringa oblata*         |     4.2±0.033     |
-|    22      | *Koelreuteria paniculata*      |    10.1±0.415   |
-|    23      |    *Paulownia tomentosa*       | 4.4±0.079|
-|    24      |    *Ailanthus altissima*       |   6.3±0.028  |
+**Table 2. Moisture content of the seeds**
+
+| **Number** | **Name** | **Moisture Content / %** |
+|:----------:|:--------------------------:|:------------------:|
+| 01 | *Acer buergerianum* | 6.7±0.058 |
+| 02 | *Acer palmatum* | 8.4±0.071 |
+| 03 | *Acer palmatum 'Atropurpureum'* | 5.1±0.032 |
+| 04 | *Acer truncatum* | 7.2±0.108 |
+| 05 | *Cotinus coggygria* | 6.5±0.235 |
+| 06 | *Berberis thunbergii 'Atropurpurea'* | 7.2±0.057 |
+| 07 | *Betula platyphylla* | 6.3±0.211 |
+| 08 | *Buxus sinica* | 7.3±0.152 |
+| 09 | *Chimonanthus praecox* | 7.8±0.073 |
+| 10 | *Lonicera maackii* | 7.6±0.059 |
+| 11 | *Cephalotaxus sinensis* | 6.9±0.195 |
+| 12 | *Cornus kousa subsp. chinensis* | 6.6±0.373 |
+| 13 | *Cornus officinalis* | 7.5±0.088 |
+| 14 | *Liquidambar formosana* | 6.8±0.061 |
+| 15 | *Albizia julibrissin* | 3.9±0.055 |
+| 16 | *Cercis chinensis* | 8.3±0.247 |
+| 17 | *Gleditsia sinensis* | 6.7±0.147 |
+| 18 | *Magnolia denudata* | 5.5±0.318 |
+| 19 | *Chionanthus retusus* | 4.5±0.067 |
+| 20 | *Forsythia suspensa* | 5.6±0.074 |
+| 21 | *Syringa oblata* | 4.2±0.033 |
+| 22 | *Koelreuteria paniculata* | 10.1±0.415 |
+| 23 | *Paulownia tomentosa* | 4.4±0.079 |
+| 24 | *Ailanthus altissima* | 6.3±0.028 |
+
 
 ### 3.2 Determination results and analysis of seed viability after liquid nitrogen preservation for 1h
 
@@ -240,7 +242,8 @@ Table 2. Moisture content of the seeds
 * After liquid nitrogen storage, seeds from seven species of ornamental trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate.
 * The data of Germination rate is analized in SPSS, using the Least Significant Difference (LSD) multiple comparison to determine which groups have significant differences, as shown in Table 3.
 
-Table 3. Germination rate of the seeds
+**Table 3. Germination rate of the seeds**
+
 <table>
   <tr>
     <th rowspan="2">Treatment</th>
@@ -276,7 +279,7 @@ Table 3. Germination rate of the seeds
     <td>3.3a</td>
   </tr>
   <tr>
-    <td>Room temperature storage(control group)</td>
+    <td>Room temperature storage (control group)</td>
     <td>16.7a</td>
     <td>0.0b</td>
     <td>1.1a</td>
@@ -286,7 +289,11 @@ Table 3. Germination rate of the seeds
     <td>3.3a</td>
   </tr>
 </table>
-Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).
+
+
+
+
+**Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).**
 
 * There was a significant difference between the *Albizia julibrissin* subjected to liquid nitrogen storage for no less than 30 days and the control treatment, indicating a significant promotion of germination for *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days.
 
@@ -296,7 +303,8 @@ Note: In the table, "a" and "b" represent the LSD multiple comparison results (P
 
 * To further investigate the effect of liquid nitrogen storage duration on seed germination, the time required for the first seed to germinate was determined, and the results are presented in Table 4.
 
-Table 4. Days required for seeds’ germination
+**Table 4. Days required for seeds’ germination**
+
 <table>
   <tr>
     <th rowspan="2">Treatment</th>
@@ -338,7 +346,8 @@ Table 4. Days required for seeds’ germination
     <td>17a</td>
   </tr>
 </table>
-Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).
+
+**Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).**
 
 * From the perspective of the time required for the first seed to germinate, there was a significant difference in the *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days compared to the storage for 10 days in liquid nitrogen and the control treatment.
 * This indicates that the treatment of liquid nitrogen storage for no less than 30 days prolonged the time required for *Albizia julibrissin* to germinate to a certain extent, while the treatment of liquid nitrogen storage for 10 days had no significant effect on the time required for *Albizia julibrissin* to germinate.
@@ -352,7 +361,41 @@ Note: In the table, "a" and "b" represent the LSD multiple comparison results (P
 * After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field.
 * Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
 
-Table 5. Germination rate of the seeds after being sown in the field
+**Table 5. Germination rate of the seeds after being sown in the field**
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Table with Row Borders</title>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+</style>
+</head>
+<body>
+
 <table>
   <tr>
     <th rowspan="2">Treatment</th>
@@ -386,6 +429,10 @@ Table 5. Germination rate of the seeds after being sown in the field
   </tr>
 </table>
 
+</body>
+</html>
+
+
 * For seeds that retained the capability to grow into healthy seedlings after liquid nitrogen storage, the observation included selecting the first plant to develop true leaves and recording the date of the appearance of the first true leaf during its growth process.
 * After the emergence of the first true leaf, the height of the plant was measured every two days.
 
@@ -415,6 +462,11 @@ Table 5. Germination rate of the seeds after being sown in the field
 
 * After being stored in liquid nitrogen for no less than 30 days, ***Albizia julibrissin*** showed an increase in the time required for germination. The same phenomenon was observed in the sowing experiments.
 * Additionally, some seeds experienced bursting during thawing. The reasons for these phenomena may be related to the moisture content of the ***Albizia julibrissin*** seeds [^2].
+
+* During the germination and sowing experiments, some seeds showed mold growth in the warm and humid incubator environment.
+* Due to the limited duration of the experiments, some seeds were not subjected to prolonged stratification pre-treatment, which may cause the failure of germination for some seeds.
+* In the sowing experiments, it was challenging to provide the optimal sowing treatment for all seeds based on their individual growth characteristics. For example, factors such as the thickness of the covering soil after sowing could only be adjusted to meet the general requirements for suitable growth of all seeds as much as possible.
+* Additionally, the high winds in Beijing during the spring and the rainfall in May led to the rapid germination and growth of some weed seeds in the experimental site, which may cause the failure of some seeds to germinate properly.
 
 
 ![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
