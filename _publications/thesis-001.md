@@ -133,9 +133,7 @@ Abstract
 * Unit in grams, rounded to 3 decimal places.
 * The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-<div style="text-align:center">
-$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100% $$
-</div>
+$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100\% \quad (1) $$
 
 #### 2.2.3 Determination of seed viability
 
@@ -200,7 +198,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * The moisture content of the tested seeds was determined under normal room temperature conditions.
 * Specific results can be found in Table 2.
 
-<center><b>Table.2 Moisture content of the seeds</b></center>
+<p><center><b>Table.2 Moisture content of the seeds</b></center></p>
 
 | **Number** | **Name** | **Moisture Content / %** |
 |:----------:|:--------------------------:|:------------------:|
@@ -241,7 +239,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * After liquid nitrogen storage, seeds from seven species of ornamental trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate.
 * The data of Germination rate is analized in SPSS, using the Least Significant Difference (LSD) multiple comparison to determine which groups have significant differences, as shown in Table 3.
 
-<center><b>Table.3 Germination rate of the seeds</b></center>
+<p><center><b>Table.3 Germination rate of the seeds</b></center></p>
 
 <table>
   <tr>
@@ -299,7 +297,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 * To further investigate the effect of liquid nitrogen storage duration on seed germination, the time required for the first seed to germinate was determined, and the results are presented in Table 4.
 
-<center><b>Table.4 Days required for seeds’ germination</b></center>
+<p><center><b>Table.4 Days required for seeds’ germination</b></center></p>
 
 <table>
   <tr>
@@ -357,7 +355,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field.
 * Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
 
-<center><b>Table.5 Germination rate of the seeds after being sown in the field</b></center>
+<p><center><b>Table.5 Germination rate of the seeds after being sown in the field</b></center></p>
 
 <table>
   <tr>
@@ -446,7 +444,6 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
