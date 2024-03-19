@@ -85,16 +85,16 @@ Abstract
 
 * The study utilized seeds from 24 common landscape tree species as experimental materials.
 
-Table.1 Catalogue of the specieS
+Table.1 Catalogue of the species
 
-| **Number** |     ***Scientific Name***      |    ***Family***    |
+| **Number** |     ***Name***      |    ***Family***    |
 |:----------:|:-------------------------------:|:------------------:|
 |    01      |       *Acer buergerianum*      |     *Aceraceae*    |
 |    02      |        *Acer palmatum*         |     *Aceraceae*    |
 |    03      | *Acer palmatum 'Atropurpureum'*|     *Aceraceae*    |
 |    04      |        *Acer truncatum*        |     *Aceraceae*    |
 |    05      |       *Cotinus coggygria*      |   *Anacardiaceae*  |
-|    06      | *Berberis thunbergii var. atropurpurea*| *Berberidaceae*|
+|    06      | *Berberis thunbergii 'Atropurpurea'*| *Berberidaceae*|
 |    07      |      *Betula platyphylla*      |     *Betulaceae*   |
 |    08      |        *Buxus sinica*          |      *Buxaceae*    |
 |    09      |    *Chimonanthus praecox*      |  *Calycanthaceae*  |
@@ -134,27 +134,52 @@ Table.1 Catalogue of the specieS
 * Unit in grams, rounded to 3 decimal places.
 * The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-<div align="center">
+<div style="text-align:center">
 \[ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100\% \]
 </div>
 
-
-
-
-
-
-
-
-
 #### 2.2.3 Determination of seed viability
+
+* The Tetrazolium chloride (TTC) staining method was employed to assess seed viability.
+* Groups of 15 large seeds and 30 small seeds were utilized.
+* Seeds were soaked in room temperature water for 24 hours to soften the seed coat for easier dissection.
+* After removing the seed coat and dissecting the seeds to expose the embryos as much as possible for staining and observation, they were divided into groups and immersed in a 0.75% TTC solution for 24 hours for staining, followed by subsequent observation and analysis.
+* Seed viability was evaluated based on the stained area, categorized as "+", "++", or "+++", respectively represented staining areas of 0-30%, 30%-60%, and 60%-100%, to indicate the degree of staining.
+* Examples of stained seeds are illustrated in Figure 1.
+
+![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
+
+<center>Fig.1 Data collected in 2021</center>
 
 #### 2.2.4 Pretreatment of seed germination
 
+* For seeds subjected to liquid nitrogen storage for 10 days and the control group, different pre-treatment methods were employed to break dormancy in various seed species.
+
 #### 2.2.5 Determination of seed germination rate
+
+* Random samples, each containing approximately 30 seeds, were taken and replicated three times.
+* Following liquid nitrogen storage or germination pre-treatment, the seeds were placed into prepared culture plates for germination experiments.
+* Two layers of filter paper or a suitable thickness of defatted cotton were spread as the germination bed in each culture plate.
+* The culture plates were then placed in a constant temperature incubator set at 25°C for germination experiments, ensuring a minimum of 8 hours of light exposure every 24 hours.
+* The germination beds were kept moist and clean throughout the experiment.
+* Germination progress was continuously monitored until cessation, and germination rates were calculated accordingly.
 
 #### 2.2.6 Outdoor sowing and observation of growth status
 
+* Random samples, each containing approximately 30 seeds, were taken and replicated three times.
+* Seeds were sown using the furrow seeding method, and after sowing, a layer of mulch was applied to maintain soil moisture.
+* Several days later, the germination progress of the seeds was continuously observed and recorded, including the time of emergence of the first true leaves after seed germination.
+* Germination rates were calculated accordingly.
+* Following the appearance of the first pair of true leaves, plant height was recorded every two days.
+* Throughout this period, plants were watered daily to maintain soil moisture, and timely weed removal was conducted to ensure optimal growth conditions.
+
 #### 2.2.7 Preservation and thawing of seeds in liquid nitrogen
+
+* For each of the 24 different seed varieties, approximately 30 seeds were randomly selected for each group.
+* Seeds within each group were sorted based on size and placed into cryogenic tubes of varying capacities.
+* These tubes were then subjected to liquid nitrogen storage for durations of 1 hour, 10 days, or 30 days and above, with room temperature storage serving as the control.
+* Upon reaching the desired storage durations, the cryogenic tubes were retrieved and the seeds were rapidly thawed by rinsing them with room temperature water for approximately 5 minutes.
+* After thawing, the seeds were subjected to either TTC staining, germination tests following pre-treatment, or direct sowing in the field.
 
 ## 3 Results
 
@@ -162,16 +187,234 @@ Table.1 Catalogue of the specieS
 
 #### 3.1.1 Record of seed size and morphology
 
+* The morphology and size of part of the tested seeds are depicted in Figure 2.
+
+![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
+
+<center>Fig.1 Data collected in 2021</center>
+
 #### 3.1.2 Determination results of seed moisture 
+
+* For the cryopreservation of seeds, the moisture content of the preservation material is commonly regarded as having a significant impact on the success of preservation.
+* It is generally believed that the lower the moisture content of the material, the less likely it is to suffer from cryo-injuries. 
+* However, each preservation material has a specific safe moisture content range, as excessive dehydration can also harm the material.
+* The moisture content of the tested seeds was determined under normal room temperature conditions.
+* Specific results can be found in Table 2.
+
+Table 2. Moisture content of the seeds
+| **Number** |     ***Name***      |    **moisture content / %**    |
+|:----------:|:-------------------------------:|:------------------:|
+|    01      |       *Acer buergerianum*      |     6.7±0.058    |
+|    02      |        *Acer palmatum*         |     8.4±0.071    |
+|    03      | *Acer palmatum 'Atropurpureum'*|     5.1±0.032    |
+|    04      |        *Acer truncatum*        |     7.2±0.108    |
+|    05      |       *Cotinus coggygria*      |   6.5±0.235  |
+|    06      | *Berberis thunbergii 'Atropurpurea'*| 7.2±0.057|
+|    07      |      *Betula platyphylla*      |     6.3±0.211   |
+|    08      |        *Buxus sinica*          |      7.3±0.152    |
+|    09      |    *Chimonanthus praecox*      |  7.8±0.073  |
+|    10      |       *Lonicera maackii*       |  7.6±0.059  |
+|    11      |   *Cephalotaxus sinensis*      | 6.9±0.195  |
+|    12      | *Cornus kousa subsp. chinensis*|     6.6±0.373    |
+|    13      |       *Cornus officinalis*     |     7.5±0.088    |
+|    14      |    *Liquidambar formosana*     |  6.8±0.061  |
+|    15      |      *Albizia julibrissin*     |    3.9±0.055   |
+|    16      |       *Cercis chinensis*       |    8.3±0.247   |
+|    17      |     *Gleditsia sinensis*       |    6.7±0.147   |
+|    18      |      *Magnolia denudata*       |   5.5±0.318   |
+|    19      |    *Chionanthus retusus*       |     4.5±0.067     |
+|    20      |     *Forsythia suspensa*       |     5.6±0.074     |
+|    21      |       *Syringa oblata*         |     4.2±0.033     |
+|    22      | *Koelreuteria paniculata*      |    10.1±0.415   |
+|    23      |    *Paulownia tomentosa*       | 4.4±0.079|
+|    24      |    *Ailanthus altissima*       |   6.3±0.028  |
 
 ### 3.2 Determination results and analysis of seed viability after liquid nitrogen preservation for 1h
 
+* The criterion for assessing seed viability is based on the degree of seed staining, where a larger stained area indicates a higher degree of staining and thus stronger seed viability.
+* Figure 3 shows a part of the result.
+* The seeds of the 24 tested species of ornamental trees exhibited varying degrees of staining after 1 hour of liquid nitrogen storage, as did the control group. This indicates that the seeds under test possessed varying levels of viability both before and after 1 hour of liquid nitrogen storage.
+
 ### 3.3 Determination results and analysis of seed germination rate after liquid nitrogen preservation
+
+* After liquid nitrogen storage, seeds from seven species of ornamental trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate.
+* The data of Germination rate is analized in SPSS, using the Least Significant Difference (LSD) multiple comparison to determine which groups have significant differences, as shown in Table 3.
+
+Table 3. Germination rate of the seeds
+<table>
+  <tr>
+    <th rowspan="2">Treatment</th>
+    <th colspan="7">Germination rate / %</th>
+  </tr>
+  <tr>
+    <th><em>Albizia julibrissin</em></th>
+    <th><em>Lonicera maackii</em></th>
+    <th><em>Chimonanthus praecox</em></th>
+    <th><em>Forsythia suspensa</em></th>
+    <th><em>Acer truncatum</em></th>
+    <th><em>Syringa oblata</em></th>
+    <th><em>Berberis thunbergii 'Atropurpurea'</em></th>
+  </tr>
+  <tr>
+    <td>Liquid nitrogen storage for no less than 30 days</td>
+    <td>5.6a</td>
+    <td>5.6a</td>
+    <td>2.2a</td>
+    <td>20.0a</td>
+    <td>20.0a</td>
+    <td>47.8b</td>
+    <td>4.4a</td>
+  </tr>
+  <tr>
+    <td>Liquid nitrogen storage for 10 days</td>
+    <td>14.4a</td>
+    <td>2.2ab</td>
+    <td>1.1a</td>
+    <td>11.1a</td>
+    <td>5.6b</td>
+    <td>74.4a</td>
+    <td>3.3a</td>
+  </tr>
+  <tr>
+    <td>Room temperature storage(control group)</td>
+    <td>16.7a</td>
+    <td>0.0b</td>
+    <td>1.1a</td>
+    <td>10.0a</td>
+    <td>1.1b</td>
+    <td>32.2b</td>
+    <td>3.3a</td>
+  </tr>
+</table>
+Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).
+
+* There was a significant difference between the *Albizia julibrissin* subjected to liquid nitrogen storage for no less than 30 days and the control treatment, indicating a significant promotion of germination for *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days.
+
+* For the *Acer truncatum*, after being stored in liquid nitrogen for no less than 30 days, there was a significant difference compared to the storage for 10 days in liquid nitrogen and the control treatment, indicating a significant promotion of germination for *Acer truncatum* after liquid nitrogen storage for no less than 30 days, while the storage for 10 days in liquid nitrogen had no significant effect on the germination of *Acer truncatum*.
+
+* Apart from the above two species, the treatment with liquid nitrogen had no significant effect on the germination rate of the other 5 species of seeds.
+
+* To further investigate the effect of liquid nitrogen storage duration on seed germination, the time required for the first seed to germinate was determined, and the results are presented in Table 4.
+
+Table 4. Days required for seeds’ germination
+<table>
+  <tr>
+    <th rowspan="2">Treatment</th>
+    <th colspan="6">The time required for the first seed to germinate / d</th>
+  </tr>
+  <tr>
+    <th><em>Albizia julibrissin</em></th>
+    <th><em>Chimonanthus praecox</em></th>
+    <th><em>Forsythia suspensa</em></th>
+    <th><em>Acer truncatum</em></th>
+    <th><em>Syringa oblata</em></th>
+    <th><em>Berberis thunbergii 'Atropurpurea'</em></th>
+  </tr>
+  <tr>
+    <td>Liquid nitrogen storage for no less than 30 days</td>
+    <td>4a</td>
+    <td>9a</td>
+    <td>6.3a</td>
+    <td>2.7b</td>
+    <td>3a</td>
+    <td>15.5a</td>
+  </tr>
+  <tr>
+    <td>Liquid nitrogen storage for 10 days</td>
+    <td>1b</td>
+    <td>9a</td>
+    <td>6a</td>
+    <td>3.7b</td>
+    <td>1.7b</td>
+    <td>15.5a</td>
+  </tr>
+  <tr>
+    <td>Room temperature storage(control group)</td>
+    <td>1b</td>
+    <td>6a</td>
+    <td>6a</td>
+    <td>10a</td>
+    <td>3a</td>
+    <td>17a</td>
+  </tr>
+</table>
+Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).
+
+* From the perspective of the time required for the first seed to germinate, there was a significant difference in the *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days compared to the storage for 10 days in liquid nitrogen and the control treatment.
+* This indicates that the treatment of liquid nitrogen storage for no less than 30 days prolonged the time required for *Albizia julibrissin* to germinate to a certain extent, while the treatment of liquid nitrogen storage for 10 days had no significant effect on the time required for *Albizia julibrissin* to germinate.
+
+* For the *Acer truncatum*, after liquid nitrogen storage for no less than 30 days and for 10 days, there was a significant difference compared to the control treatment, indicating that both treatments of liquid nitrogen storage for no less than 30 days and for 10 days could shorten the time required for *Acer truncatum* to germinate to some extent.
+
+* For the *Syringa oblata*, after liquid nitrogen storage for 10 days, there was a significant difference compared to the storage for no less than 30 days in liquid nitrogen and the control treatment, indicating that the treatment of liquid nitrogen storage for 10 days could shorten the time required for *Syringa oblata* to germinate to a certain extent, while the treatment of liquid nitrogen storage for no less than 30 days had no significant effect on shortening the time required for *Syringa oblata* to germinate.
 
 ### 3.4 Outdoor sowing status and analysis of seeds after liquid nitrogen preservation
 
+* After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field.
+* Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
+
+Table 5. Germination rate of the seeds after being sown in the field
+<table>
+  <tr>
+    <th rowspan="2">Treatment</th>
+    <th colspan="6">Germination rate / %</th>
+  </tr>
+  <tr>
+    <th><em>Albizia julibrissin</em></th>
+    <th><em>Chimonanthus praecox</em></th>
+    <th><em>Forsythia suspensa</em></th>
+    <th><em>Acer truncatum</em></th>
+    <th><em>Syringa oblata</em></th>
+    <th><em>Gleditsia sinensis</em></th>
+  </tr>
+  <tr>
+    <td>Liquid nitrogen storage for no less than 30 days</td>
+    <td>24.4</td>
+    <td>12.2</td>
+    <td>14.4</td>
+    <td>15.6</td>
+    <td>47.8</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Room temperature storage(control group)</td>
+    <td>36.7</td>
+    <td>7.8</td>
+    <td>8.9</td>
+    <td>7.8</td>
+    <td>57.8</td>
+    <td>3.3</td>
+  </tr>
+</table>
+
+* For seeds that retained the capability to grow into healthy seedlings after liquid nitrogen storage, the observation included selecting the first plant to develop true leaves and recording the date of the appearance of the first true leaf during its growth process.
+* After the emergence of the first true leaf, the height of the plant was measured every two days.
+
+* After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, retained the ability to grow into healthy seedlings when sown in the field.
+* Among them, the *Albizia julibrissin* exhibited the earliest appearance of the first pair of true leaves on the 11th day after sowing, while the *Chimonanthus praecox* showed the latest appearance of the first pair of true leaves on the 15th day after sowing. 
+* For these 5 species, there was no significant difference between the seedlings grown after liquid nitrogen storage for no less than 30 days and those grown from seeds stored at room temperature.
+
 ## 4 Conclusion and Discussion
 
+* Among the 24 species of landscape trees selected, the seeds of ***Syringa oblata***, ***Lonicera maackiie***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Berberis thunbergii 'Atropurpurea'***, ***Albizia julibrissin*** and ***Forsythia suspensa***, totaling 7 species, retained their germination ability after long-term cryopreservation in liquid nitrogen.
+* Furthermore, the seeds of ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa***, totaling 5 species, retained the capability to develop into healthy plants after being cryopreserved in liquid nitrogen for no less than 30 days.
+* The growth status of these plants showed no significant difference compared to the control group. Therefore, the application of cryopreservation technology for these 5 species of plant seeds is feasible.
+
+* The cryopreservation method for the aforementioned 5 species of seeds is as follows:
+  * Seeds are sorted based on their size and morphology and then placed into cryogenic tubes of varying capacities under their natural moisture content conditions.
+  * These tubes are directly submerged in liquid nitrogen to achieve cryopreservation.
+  * When retrieving the seeds, the cryogenic tubes must be quickly removed from the liquid nitrogen and rinsed under running room temperature tap water for 5 minutes.
+  * After rinsing, the seeds can be used for sowing, pre-treatment before sowing, or other applications.
+
+* Among the successfully preserved 5 species of seeds mentioned, ***Lonicera maackiie*** and ***Acer truncatum***, totaling 2 species, exhibited a significant increase in germination rate after being stored in liquid nitrogen for no less than 30 days.
+* Additionally, the time required for germination of maple seeds significantly shortened after being stored in liquid nitrogen for no less than 30 days.
+* These phenomena indicate that cryopreservation has a certain promoting effect on the germination of certain seeds.
+
+* After 10 days of liquid nitrogen storage, ***Syringa oblata*** showed a shortened germination time and reached peak germination rates. 
+* However, after liquid nitrogen storage for no less than 30 days, the germination rate decreased but still remained higher than that of seeds stored at room temperature.
+* This phenomenon is similar to the results obtained by Liu et al. (2019)[^1] in their experiments on the pollen of ***Syringa oblata*** stored in liquid nitrogen for 30 and 180 days. The specific reasons may be related to the physiological characteristics of ***Syringa oblata*** itself and require further research.
+
+* After being stored in liquid nitrogen for no less than 30 days, ***Albizia julibrissin*** showed an increase in the time required for germination. The same phenomenon was observed in the sowing experiments.
+* Additionally, some seeds experienced bursting during thawing. The reasons for these phenomena may be related to the moisture content of the ***Albizia julibrissin*** seeds [^2].
 
 
 ![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
