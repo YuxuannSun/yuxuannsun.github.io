@@ -133,7 +133,7 @@ Abstract
 * Unit in grams, rounded to 3 decimal places.
 * The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right.) \times 100\% \quad (1) $$ 
+$$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \quad (1) $$ 
 
 #### 2.2.3 Determination of seed viability
 
