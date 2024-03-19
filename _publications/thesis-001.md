@@ -11,6 +11,35 @@ author_profile: true
 ---
 <!--citation: ''-->
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Table with Row Borders</title>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: center; /* 居中对齐 */
+    padding: 8px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #f9f9f9; /* 更改奇数行的背景颜色 */
+  }
+</style>
+</head>
+<body>
+
 
 >* The following content is an excerpt and translation of my undergraduate thesis, aimed at personal knowledge reviewing and writing practicing.
 >* The original version was written in Chinese, awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
@@ -135,7 +164,7 @@ Abstract
 * The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
 <div style="text-align:center">
-\[ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100\% \]
+$$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \times 100\% $$
 </div>
 
 #### 2.2.3 Determination of seed viability
@@ -362,39 +391,6 @@ Abstract
 * Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
 
 **Table 5. Germination rate of the seeds after being sown in the field**
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Table with Row Borders</title>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  th, td {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-
-  tr:nth-child(odd) {
-    background-color: #ffffff;
-  }
-</style>
-</head>
-<body>
 
 <table>
   <tr>
