@@ -581,3 +581,21 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
     background-color: #f9f9f9; /* 更改奇数行的背景颜色 */
   }
 </style>
+
+<style>
+    .image-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 10px;
+    }
+
+    .image-container img {
+        max-width: 150px;
+        height: auto;
+    }
+
+    .image-container p {
+        font-size: 12px;
+    }
+</style>
