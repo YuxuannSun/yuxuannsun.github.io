@@ -548,17 +548,6 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 * Additionally, the high winds in Beijing during the spring and the rainfall in May led to the rapid germination and growth of some weed seeds in the experimental site, which may cause the failure of some seeds to germinate properly.
 
 
-![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
-
-<center>Fig.1 Data collected in 2021</center>
-
-![Fig.2](/images/pub-images/paper-001-figure-002.jpg)
-
-<center>Fig.2 Data collected in 2023</center>
-
-
-
-
 
 [^1]: <span style="font-size: 1.8em;">[Qian, L. I. U., et al. "Storage methods of 12 species of lilac (Syringa L.) pollen." Acta Agriculturae Zhejiangensis 26.3 (2014): 615-620.](http://www.zjnyxb.cn/EN/Y2014/V26/I3/0)</span>
 
