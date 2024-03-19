@@ -144,12 +144,12 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 * Seed viability was evaluated based on the stained area, categorized as "+", "++", or "+++", respectively represented staining areas of 0-30%, 30%-60%, and 60%-100%, to indicate the degree of staining.
 * Examples of stained seeds are illustrated in Figure 1.
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
         <img src="/images/pub-images/thesis-001-figure-001-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
         <p>Degree of staining '+'</p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
         <img src="/images/pub-images/thesis-001-figure-001-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
         <p>Degree of staining '++'</p>
     </div>
@@ -158,6 +158,7 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
         <p>Degree of staining '+++'</p>
     </div>
 </div>
+
 
 
 <center><b>Fig.1 Moisture content of the seeds</b></center>
@@ -596,6 +597,6 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
     }
 
     .image-container p {
-        font-size: 12px;
+        font-size: 0.8em;
     }
 </style>
