@@ -17,8 +17,29 @@ author_profile: true
 >* The thesis was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
 
 - [Abstract](#abstract)
-- [Data sources and research method](#data-sources-and-research-method)
-  - [Data sources](#data-sources)
+- [1 Introduction](#1-introduction)
+  - [1.1 Background](#11-background)
+  - [1.2 Research status](#12-research-status)
+  - [1.3 Research purpose](#13-research-purpose)
+  - [1.4 Research approach and technical route](#14-research-approach-and-technical-route)
+- [2 Materials and methods](#2-materials-and-methods)
+  - [2.1 Materials](#21-materials)
+  - [2.2 Methods](#22-methods)
+    - [2.2.1 Observation and record of seed size and morphology](#221-observation-and-record-of-seed-size-and-morphology)
+    - [2.2.2 Determination of seed moisture](#222-determination-of-seed-moisture)
+    - [2.2.3 Determination of seed viability](#223-determination-of-seed-viability)
+    - [2.2.4 Pretreatment of seed germination](#224-pretreatment-of-seed-germination)
+    - [2.2.5 Determination of seed germination rate](#225-determination-of-seed-germination-rate)
+    - [2.2.6 Outdoor sowing and observation of growth status](#226-outdoor-sowing-and-observation-of-growth-status)
+    - [2.2.7 Preservation and thawing of seeds in liquid nitrogen](#227-preservation-and-thawing-of-seeds-in-liquid-nitrogen)
+- [3 Results](#3-results)
+  - [3.1 Basic information of the seeds](#31-basic-information-of-the-seeds)
+    - [3.1.1 Record of seed size and morphology](#311-record-of-seed-size-and-morphology)
+    - [3.1.2 Determination results of seed moisture](#312-determination-results-of-seed-moisture)
+  - [3.2 Determination results and analysis of seed viability after liquid nitrogen preservation for 1h](#32-determination-results-and-analysis-of-seed-viability-after-liquid-nitrogen-preservation-for-1h)
+  - [3.3 Determination results and analysis of seed germination rate after liquid nitrogen preservation](#33-determination-results-and-analysis-of-seed-germination-rate-after-liquid-nitrogen-preservation)
+  - [3.4 Outdoor sowing status and analysis of seeds after liquid nitrogen preservation](#34-outdoor-sowing-status-and-analysis-of-seeds-after-liquid-nitrogen-preservation)
+- [2 Conclusion and Discussion](#2-conclusion-and-discussion)
   - [Research method](#research-method)
 - [Result and analysis](#result-and-analysis)
   - [Structural parameters and analysis](#structural-parameters-and-analysis)
@@ -32,13 +53,57 @@ Abstract
 
 * The present research focuses on 24 species of landscape tree seeds, determining their vitality and moisture content. Additionally, it investigates the germination and growth conditions of seeds after cryopreservation at different time intervals, as well as their performance upon field sowing. The aim is to explore the feasibility and technical methods of cryopreservation for these 24 species of garden tree seeds. The results are as follows:
   * Among the 24 species of landscape tree seeds studied, seeds from 7 species including ***Syringa oblata***, ***Lonicera maackiie***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Berberis thunbergii 'Atropurpurea'***, ***Albizia julibrissin*** and ***Forsythia suspensa*** retain their germination ability after 30-50 days of cryopreservation.
-  * Seeds from five species including ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa*** still possess the ability to develop into healthy plants after being sown in the field following 30-50 days of cryopreservation. Their growth condition shows no significant difference compared to the treatment group. Cryopreservation technology is feasible for the application of these five species of seeds.
-  * 
-  * 
+  * Seeds from 5 species including ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa*** still possess the ability to develop into healthy plants after being sown in the field following 30-50 days of cryopreservation. Their growth condition shows no significant difference compared to the control group. Cryopreservation technology is feasible for the application of these 5 species of seeds.
+  * Seeds from ***Lonicera maackii*** and ***Acer truncatum*** experience significant enhancement in germination after undergoing cryopreservation for a minimum of 30 days. Additionally, there is a notable decrease in the germination time for ***Acer truncatum*** seeds.
+  * Germination rate of ***Syringa oblata*** seeds significantly increases after 10 days of cryopreservation. However, after 30 days of cryopreservation, the germination rate is lower than that of the 10-day treatment but higher than the control group. This indicates that cryopreservation treatments of different durations have varying effects on the germination of ***Syringa oblata*** seeds, and further research is needed to determine the optimal treatment duration.
+  
+* Key words: Cryopreservation, germplasm preservation, seeds, landscape trees
 
-## Data sources and research method
+## 1 Introduction
 
-### Data sources
+### 1.1 Background
+
+### 1.2 Research status
+
+### 1.3 Research purpose
+
+### 1.4 Research approach and technical route
+
+## 2 Materials and methods
+
+### 2.1 Materials
+
+### 2.2 Methods
+
+#### 2.2.1 Observation and record of seed size and morphology
+
+#### 2.2.2 Determination of seed moisture
+
+#### 2.2.3 Determination of seed viability
+
+#### 2.2.4 Pretreatment of seed germination
+
+#### 2.2.5 Determination of seed germination rate
+
+#### 2.2.6 Outdoor sowing and observation of growth status
+
+#### 2.2.7 Preservation and thawing of seeds in liquid nitrogen
+
+## 3 Results
+
+### 3.1 Basic information of the seeds
+
+#### 3.1.1 Record of seed size and morphology
+
+#### 3.1.2 Determination results of seed moisture 
+
+### 3.2 Determination results and analysis of seed viability after liquid nitrogen preservation for 1h
+
+### 3.3 Determination results and analysis of seed germination rate after liquid nitrogen preservation
+
+### 3.4 Outdoor sowing status and analysis of seeds after liquid nitrogen preservation
+
+## 2 Conclusion and Discussion
 
 * This research continues to use Terrestrial Laser Scanning (TLS) on the old *Koelreuteria paniculata* in Yantai. Two sets of point cloud data of the tree and its surrounding environment were obtained in 2021 and 2023, serving as the primary data sources for the research.The visualized point cloud data is shown in Figure 1 and Figure 2.
 
