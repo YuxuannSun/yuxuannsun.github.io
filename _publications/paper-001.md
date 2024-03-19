@@ -46,11 +46,11 @@ Abstract
 
 ![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
 
-<center>Fig.1 Data collected in 2021</center>
+<center><b>Fig.1 Data collected in 2021<b></center>
 
 ![Fig.2](/images/pub-images/paper-001-figure-002.jpg)
 
-<center>Fig.2 Data collected in 2023</center>
+<center><b>Fig.2 Data collected in 2023<b></center>
 
 ### Research method
 
@@ -68,7 +68,7 @@ Abstract
 
 ![Fig.3](/images/pub-images/paper-001-figure-003.jpg)
 
-<center>Fig.3 The quantitative structure model</center>
+<center><b>Fig.3 The quantitative structure model<b></center>
 
 
 
@@ -84,7 +84,7 @@ Abstract
 
 ![Fig.4](/images/pub-images/paper-001-figure-004.jpg)
 
-<center>Fig.4 Model in the BIM environment</center>
+<center><b>Fig.4 Model in the BIM environment<b></center>
 
 
 

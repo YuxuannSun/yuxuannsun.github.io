@@ -84,7 +84,7 @@ Abstract
 
 * The study utilized seeds from 24 common landscape tree species as experimental materials.
 
-**Table.1 Catalogue of the species**
+<center><b>Table.1 Catalogue of the species<b></center>
 
 | **Number** |     ***Name***      |    ***Family***    |
 |:----------:|:-------------------------------:|:------------------:|
@@ -148,7 +148,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 ![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
 
-<center>Fig.1 Data collected in 2021</center>
+<center><b>Fig.1 Moisture content of the seeds<b></center>
 
 #### 2.2.4 Pretreatment of seed germination
 
@@ -188,9 +188,9 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 * The morphology and size of part of the tested seeds are depicted in Figure 2.
 
-![Fig.1](/images/pub-images/paper-001-figure-001.jpg)
+![Fig.2](/images/pub-images/paper-001-figure-001.jpg)
 
-<center>Fig.1 Data collected in 2021</center>
+<center><b>Fig.2 Moisture content of the seeds<b></center>
 
 #### 3.1.2 Determination results of seed moisture 
 
@@ -200,7 +200,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * The moisture content of the tested seeds was determined under normal room temperature conditions.
 * Specific results can be found in Table 2.
 
-**Table 2. Moisture content of the seeds**
+<center><b>Table.2 Moisture content of the seeds<b></center>
 
 | **Number** | **Name** | **Moisture Content / %** |
 |:----------:|:--------------------------:|:------------------:|
@@ -241,7 +241,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * After liquid nitrogen storage, seeds from seven species of ornamental trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate.
 * The data of Germination rate is analized in SPSS, using the Least Significant Difference (LSD) multiple comparison to determine which groups have significant differences, as shown in Table 3.
 
-**Table 3. Germination rate of the seeds**
+<center><b>Table.3 Germination rate of the seeds<b></center>
 
 <table>
   <tr>
@@ -289,9 +289,6 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
   </tr>
 </table>
 
-
-
-
 **Note: In the table, "a" and "b" represent the LSD multiple comparison results (P=0.05).**
 
 * There was a significant difference between the *Albizia julibrissin* subjected to liquid nitrogen storage for no less than 30 days and the control treatment, indicating a significant promotion of germination for *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days.
@@ -302,7 +299,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 * To further investigate the effect of liquid nitrogen storage duration on seed germination, the time required for the first seed to germinate was determined, and the results are presented in Table 4.
 
-**Table 4. Days required for seeds’ germination**
+<center><b>Table.4 Days required for seeds’ germination<b></center>
 
 <table>
   <tr>
@@ -360,7 +357,7 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 * After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field.
 * Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
 
-**Table 5. Germination rate of the seeds after being sown in the field**
+<center><b>Table.5 Germination rate of the seeds after being sown in the field<b></center>
 
 <table>
   <tr>
@@ -394,10 +391,6 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
     <td>3.3</td>
   </tr>
 </table>
-
-</body>
-</html>
-
 
 * For seeds that retained the capability to grow into healthy seedlings after liquid nitrogen storage, the observation included selecting the first plant to develop true leaves and recording the date of the appearance of the first true leaf during its growth process.
 * After the emergence of the first true leaf, the height of the plant was measured every two days.
@@ -447,13 +440,11 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
 
 
 
-[^1]: <span style="font-size: 1.8em;">[Dijkstra E W. A Note on Two Problems in Connexion with Graphs[J]. Numerische Mathematik, 1959, 1: 269-271.](https://doi.org/10.1007/BF01386390)</span>
+[^1]: <span style="font-size: 1.8em;">[Qian, L. I. U., et al. "Storage methods of 12 species of lilac (Syringa L.) pollen." Acta Agriculturae Zhejiangensis 26.3 (2014): 615-620.](http://www.zjnyxb.cn/EN/Y2014/V26/I3/0)</span>
 
-[^2]: <span style="font-size: 1.8em;">[Hackenberg J, Morhart C, Sheppard J, et al. Highly accurate tree models derived from terrestrial laser scan data: A method description[J]. Forests, 2014, 5(5): 1069-1105.](https://doi.org/10.3390/f5051069)</span>
+[^2]: <span style="font-size: 1.8em;">[河英虎, 傅伊倩, and 刘燕. "合欢和青杄种子超低温保存研究." 种子 32.3 (2013): 33-35+40.](https://kns.cnki.net/kcms2/article/abstract?v=DFdco8SIy0L4yYzzTu4_27QWLPQOHQmXkaeBW79Np4-XqMZt9wLB5sQI2Xghid5LLtHN-t9lBxPngVyeG1wFDM-LmKxRSXdI3zG73Jj0FS-zscwO7xgTaZFxcOeuhtI7cEo9yaoMAVk=&uniplatform=NZKPT&language=CHS)</span>
 
-[^3]: <span style="font-size: 1.8em;">[Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)</span>
 
-[^4]: <span style="font-size: 1.8em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -481,5 +472,3 @@ $$ \text{Moisture content (\%)} = \left( \frac{{M2 - M3}}{{M2 - M1}} \right) \ti
     background-color: #f9f9f9; /* 更改奇数行的背景颜色 */
   }
 </style>
-</head>
-<body>
