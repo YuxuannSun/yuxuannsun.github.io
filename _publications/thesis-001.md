@@ -145,19 +145,20 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 * Examples of stained seeds are illustrated in Figure 1.
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/pub-images/thesis-001-figure-001-01.png" alt="Degree of staining '+'">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-001-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
         <p>Degree of staining '+'</p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/pub-images/thesis-001-figure-001-02.png" alt="Degree of staining '++'">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-001-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
         <p>Degree of staining '++'</p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/pub-images/thesis-001-figure-001-03.png" alt="Degree of staining '+++'">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-001-03.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
         <p>Degree of staining '+++'</p>
     </div>
 </div>
+
 
 <center><b>Fig.1 Moisture content of the seeds</b></center>
 
