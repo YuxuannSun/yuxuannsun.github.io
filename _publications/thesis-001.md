@@ -118,9 +118,9 @@ Abstract
 
 * Take 30 seeds of each species as a sample, evenly spread them in a sample box; Place them in the oven, and start timing when the oven reaches 103°C ± 2°C, maintaining it for 12 hours; then transfer them to a desiccator for cooling for 30 minutes. Seeds with a diameter greater than or equal to 15mm and seeds with hard seed coats are sliced and measured. After cutting the large seeds into 4-5 pieces, approximately equivalent to the amount of 5 intact seeds are randomly selected from them for measurement, ensuring that the total exposure time to air during the entire operation does not exceed 60 minutes. Each species is repeated 3 times.
 
-* Weigh the covered sample box without the sample as $M_{1}$; after adding the sample, the weight of the sample box along with the lid is $M_{2}$; after drying and cooling, the weight of the sample and the sample box along with the lid is $M_{3}$; Unit in grams, rounded to 3 decimal places. The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
+* Weigh the covered sample box without the sample as $$M_{1}$$ ; after adding the sample, the weight of the sample box along with the lid is $$M_{2}$$ ; after drying and cooling, the weight of the sample and the sample box along with the lid is $$M_{3}$$ ; Unit in grams, rounded to 3 decimal places. The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-$$ \text{Moisture content (\%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 100\% \quad (1) $$ 
+$$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 100\% \quad (1) $$ 
 
 ### 2.2.3 Determination of seed viability
 
