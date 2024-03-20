@@ -143,7 +143,7 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 
 
-<center><b>Fig.1 Moisture content of the seeds</b></center>
+<center><b>Fig.1 Examples of stained seeds</b></center>
 
 ### 2.2.4 Pretreatment of seed germination
 
