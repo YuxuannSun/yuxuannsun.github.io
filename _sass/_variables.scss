@@ -13,24 +13,24 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : 'Fira Sans', Georgia, Times, serif;
+$sans-serif                 : 'Fira Sans', -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : 'Fira Sans', Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : 'Fira Sans', Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : 'Fira Sans', Georgia, serif;
+$times                      : 'Fira Sans', Times, serif;
+$bodoni                     : 'Fira Sans', "Bodoni MT", serif;
+$calisto                    : 'Fira Sans', "Calisto MT", serif;
+$garamond                   : 'Fira Sans', Garamond, serif;
 
 $global-font-family         : 'Fira Sans';
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$header-font-family         : 'Fira Sans', $sans-serif;
+$caption-font-family        : 'Fira Sans', $serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
