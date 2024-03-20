@@ -555,7 +555,23 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
 
 [^2]: <span style="font-size: 1.8em;">[河英虎, 傅伊倩, and 刘燕. "合欢和青杄种子超低温保存研究." 种子 32.3 (2013): 33-35+40.](https://kns.cnki.net/kcms2/article/abstract?v=DFdco8SIy0L4yYzzTu4_27QWLPQOHQmXkaeBW79Np4-XqMZt9wLB5sQI2Xghid5LLtHN-t9lBxPngVyeG1wFDM-LmKxRSXdI3zG73Jj0FS-zscwO7xgTaZFxcOeuhtI7cEo9yaoMAVk=&uniplatform=NZKPT&language=CHS)</span>
 
+<style>
+    .image-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 10px;
+    }
 
+    .image-container img {
+        max-width: 150px;
+        height: auto;
+    }
+
+    .image-container p {
+        font-size: 12px;
+    }
+</style>
 
 <html lang="en">
 <head>
@@ -583,20 +599,3 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
   }
 </style>
 
-<style>
-    .image-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 10px;
-    }
-
-    .image-container img {
-        max-width: 150px;
-        height: auto;
-    }
-
-    .image-container p {
-        font-size: 0.8em;
-    }
-</style>
