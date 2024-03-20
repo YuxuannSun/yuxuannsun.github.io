@@ -470,14 +470,13 @@ $$ \text{Moisture content (\%)} = ( \frac {{M2 - M3}} {{M2 - M1}} ) \times 100\%
 * From the perspective of the time required for the first seed to germinate, there was a significant difference in the *Albizia julibrissin* after liquid nitrogen storage for no less than 30 days compared to the storage for 10 days in liquid nitrogen and the control treatment.
 * This indicates that the treatment of liquid nitrogen storage for no less than 30 days prolonged the time required for *Albizia julibrissin* to germinate to a certain extent, while the treatment of liquid nitrogen storage for 10 days had no significant effect on the time required for *Albizia julibrissin* to germinate.
 
-* For the *Acer truncatum*, after liquid nitrogen storage for no less than 30 days and for 10 days, there was a significant difference compared to the control treatment, indicating that both treatments of liquid nitrogen storage for no less than 30 days and for 10 days could shorten the time required for *Acer truncatum* to germinate to some extent.
+* For the ***Acer truncatum***, after liquid nitrogen storage for no less than 30 days and for 10 days, there was a significant difference compared to the control treatment, indicating that both treatments of liquid nitrogen storage for no less than 30 days and for 10 days could shorten the time required for ***Acer truncatum*** to germinate to some extent.
 
-* For the *Syringa oblata*, after liquid nitrogen storage for 10 days, there was a significant difference compared to the storage for no less than 30 days in liquid nitrogen and the control treatment, indicating that the treatment of liquid nitrogen storage for 10 days could shorten the time required for *Syringa oblata* to germinate to a certain extent, while the treatment of liquid nitrogen storage for no less than 30 days had no significant effect on shortening the time required for *Syringa oblata* to germinate.
+* For the ***Syringa oblata***, after liquid nitrogen storage for 10 days, there was a significant difference compared to the storage for no less than 30 days in liquid nitrogen and the control treatment, indicating that the treatment of liquid nitrogen storage for 10 days could shorten the time required for ***Syringa oblata*** to germinate to a certain extent, while the treatment of liquid nitrogen storage for no less than 30 days had no significant effect on shortening the time required for ***Syringa oblata*** to germinate.
 
 ### 3.4 Outdoor sowing status and analysis of seeds after liquid nitrogen preservation
 
-* After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field.
-* Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
+* After liquid nitrogen storage, the seeds of ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa***, totaling 5 species, still possessed the capability to grow into healthy seedlings when sown in the field. Additionally, the control group of *Gleditsia sinensis* exhibited a certain germination rate. Specific data can be found in Table 5.
 
 <p><center><b>Table.5 Germination rate of the seeds after being sown in the field</b></center></p>
 
@@ -514,40 +513,30 @@ $$ \text{Moisture content (\%)} = ( \frac {{M2 - M3}} {{M2 - M1}} ) \times 100\%
   </tr>
 </table>
 
-* For seeds that retained the capability to grow into healthy seedlings after liquid nitrogen storage, the observation included selecting the first plant to develop true leaves and recording the date of the appearance of the first true leaf during its growth process.
-* After the emergence of the first true leaf, the height of the plant was measured every two days.
+* For seeds that retained the capability to grow into healthy seedlings after liquid nitrogen storage, the observation included selecting the first plant to develop true leaves and recording the date of the appearance of the first true leaf during its growth process. After the emergence of the first true leaf, the height of the plant was measured every two days.
 
-* After liquid nitrogen storage, the seeds of *Syringa oblata*, *Acer truncatum*, *Chimonanthus praecox*, *Albizia julibrissin*, and *Forsythia suspensa*, totaling 5 species, retained the ability to grow into healthy seedlings when sown in the field.
-* Among them, the *Albizia julibrissin* exhibited the earliest appearance of the first pair of true leaves on the 11th day after sowing, while the *Chimonanthus praecox* showed the latest appearance of the first pair of true leaves on the 15th day after sowing. 
-* For these 5 species, there was no significant difference between the seedlings grown after liquid nitrogen storage for no less than 30 days and those grown from seeds stored at room temperature.
+* After liquid nitrogen storage, the seeds of ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa***, totaling 5 species, retained the ability to grow into healthy seedlings when sown in the field.
+* Among them, the ***Albizia julibrissin*** exhibited the earliest appearance of the first pair of true leaves on the 11th day after sowing, while the ***Chimonanthus praecox*** showed the latest appearance of the first pair of true leaves on the 15th day after sowing. For these 5 species, there was no significant difference between the seedlings grown after liquid nitrogen storage for no less than 30 days and those grown from seeds stored at room temperature.
 
 ## 4 Conclusion and Discussion
 
 * Among the 24 species of landscape trees selected, the seeds of ***Syringa oblata***, ***Lonicera maackiie***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Berberis thunbergii 'Atropurpurea'***, ***Albizia julibrissin*** and ***Forsythia suspensa***, totaling 7 species, retained their germination ability after long-term cryopreservation in liquid nitrogen.
 * Furthermore, the seeds of ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa***, totaling 5 species, retained the capability to develop into healthy plants after being cryopreserved in liquid nitrogen for no less than 30 days.
-* The growth status of these plants showed no significant difference compared to the control group. Therefore, the application of cryopreservation technology for these 5 species of plant seeds is feasible.
+* The growth status of these plants showed no significant difference compared to the control group. Therefore, **the application of cryopreservation technology for these 5 species of plant seeds is feasible**.
 
-* The cryopreservation method for the aforementioned 5 species of seeds is as follows:
+* The **cryopreservation method** for the aforementioned 5 species of seeds is as follows:
   * Seeds are sorted based on their size and morphology and then placed into cryogenic tubes of varying capacities under their natural moisture content conditions.
   * These tubes are directly submerged in liquid nitrogen to achieve cryopreservation.
   * When retrieving the seeds, the cryogenic tubes must be quickly removed from the liquid nitrogen and rinsed under running room temperature tap water for 5 minutes.
   * After rinsing, the seeds can be used for sowing, pre-treatment before sowing, or other applications.
 
-* Among the successfully preserved 5 species of seeds mentioned, ***Lonicera maackiie*** and ***Acer truncatum***, totaling 2 species, exhibited a significant increase in germination rate after being stored in liquid nitrogen for no less than 30 days.
-* Additionally, the time required for germination of maple seeds significantly shortened after being stored in liquid nitrogen for no less than 30 days.
-* These phenomena indicate that cryopreservation has a certain promoting effect on the germination of certain seeds.
+* Among the successfully preserved 5 species of seeds mentioned, ***Lonicera maackiie*** and ***Acer truncatum***, totaling 2 species, exhibited a significant **increase** in germination rate after being stored in liquid nitrogen for no less than 30 days. Additionally, the time required for germination of ***Acer truncatum*** significantly **shortened** after being stored in liquid nitrogen for no less than 30 days. These phenomena indicate that **cryopreservation has a certain promoting effect on the germination of certain seeds**.
 
-* After 10 days of liquid nitrogen storage, ***Syringa oblata*** showed a shortened germination time and reached peak germination rates. 
-* However, after liquid nitrogen storage for no less than 30 days, the germination rate decreased but still remained higher than that of seeds stored at room temperature.
-* This phenomenon is similar to the results obtained by Liu et al. (2019)[^1] in their experiments on the pollen of ***Syringa oblata*** stored in liquid nitrogen for 30 and 180 days. The specific reasons may be related to the physiological characteristics of ***Syringa oblata*** itself and require further research.
+* After 10 days of liquid nitrogen storage, ***Syringa oblata*** showed a **shortened** germination time and reached peak germination rates. However, after liquid nitrogen storage for no less than 30 days, the germination rate **decreased but still remained higher** than that of seeds stored at room temperature. This phenomenon is similar to the results obtained by Liu et al. (2019)[^1] in their experiments on the pollen of ***Syringa oblata*** stored in liquid nitrogen for 30 and 180 days. The specific reasons may be related to the physiological characteristics of ***Syringa oblata*** itself and require further research.
 
-* After being stored in liquid nitrogen for no less than 30 days, ***Albizia julibrissin*** showed an increase in the time required for germination. The same phenomenon was observed in the sowing experiments.
-* Additionally, some seeds experienced bursting during thawing. The reasons for these phenomena may be related to the moisture content of the ***Albizia julibrissin*** seeds [^2].
+* After being stored in liquid nitrogen for no less than 30 days, ***Albizia julibrissin*** showed an increase in the time required for germination. The same phenomenon was observed in the sowing experiments. Additionally, some seeds experienced bursting during thawing. The reasons for these phenomena may be related to the moisture content of the ***Albizia julibrissin*** seeds [^2].
 
-* During the germination and sowing experiments, some seeds showed mold growth in the warm and humid incubator environment.
-* Due to the limited duration of the experiments, some seeds were not subjected to prolonged stratification pre-treatment, which may cause the failure of germination for some seeds.
-* In the sowing experiments, it was challenging to provide the optimal sowing treatment for all seeds based on their individual growth characteristics. For example, factors such as the thickness of the covering soil after sowing could only be adjusted to meet the general requirements for suitable growth of all seeds as much as possible.
-* Additionally, the high winds in Beijing during the spring and the rainfall in May led to the rapid germination and growth of some weed seeds in the experimental site, which may cause the failure of some seeds to germinate properly.
+* During the germination and sowing experiments, some seeds showed mold growth in the warm and humid incubator environment. Due to the limited duration of the experiments, some seeds were not subjected to prolonged stratification pre-treatment, which may cause the failure of germination for some seeds. In the sowing experiments, it was challenging to provide the optimal sowing treatment for all seeds based on their individual growth characteristics. For example, factors such as the thickness of the covering soil after sowing could only be adjusted to meet the general requirements for suitable growth of all seeds as much as possible. Additionally, the high winds in Beijing during the spring and the rainfall in May led to the rapid germination and growth of some weed seeds in the experimental site, which may cause the failure of some seeds to germinate properly.
 
 
 
