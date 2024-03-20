@@ -120,7 +120,7 @@ Abstract
 
 * Weigh the covered sample box without the sample as $M_{1}$; after adding the sample, the weight of the sample box along with the lid is $M_{2}$; after drying and cooling, the weight of the sample and the sample box along with the lid is $M_{3}$; Unit in grams, rounded to 3 decimal places. The final moisture content is expressed as a percentage and calculated using the following formula, with the moisture content of each seed type being the average of the three repetitions.
 
-$$ \text{Moisture content (\%)} = ( \frac {{ (M_{2}) - (M_{3}) }} {{ (M_{2}) - (M_{1}) }} ) \times 100\% \quad (1) $$ 
+$$ \text{Moisture content (\%)} = ( \frac {{ M_{2} - M_{3} }} {{ M_{2} - M_{1} /\}\} ) \times 100\% \quad (1) $$ 
 
 ### 2.2.3 Determination of seed viability
 
