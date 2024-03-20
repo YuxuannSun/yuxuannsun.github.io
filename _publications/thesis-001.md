@@ -583,7 +583,7 @@ $$ \text{Moisture content (\%)} = ( \frac{{M2 - M3}}{{M2 - M1}} ) \times 100\% \
     border-collapse: collapse;
     width: 100%;
   }
-
+  
   th, td {
     border: 1px solid #dddddd;
     text-align: center; /* 居中对齐 */
