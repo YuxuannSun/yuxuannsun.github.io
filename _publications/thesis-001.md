@@ -81,7 +81,7 @@ Abstract
 
 <p><center><b>Table.1 Catalogue of the species</b></center></p>
 
-| **Number** |     ***Name***      |    ***Family***    |
+| **Number** |     ***Species***      |    ***Family***    |
 |:----------:|:-------------------------------:|:------------------:|
 |    01      |       *Acer buergerianum*      |     *Aceraceae*    |
 |    02      |        *Acer palmatum*         |     *Aceraceae*    |
@@ -288,7 +288,7 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 <p><center><b>Table.2 Moisture content of the seeds</b></center></p>
 
-| **Number** | **Name** | **Moisture Content / %** |
+| **Number** | **Species** | **Moisture Content / %** |
 |:----------:|:--------------------------:|:------------------:|
 | 01 | *Acer buergerianum* | 6.7±0.058 |
 | 02 | *Acer palmatum* | 8.4±0.071 |
@@ -324,7 +324,7 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 ### 3.3 Determination results and analysis of seed germination rate after liquid nitrogen preservation
 
-* After liquid nitrogen storage, seeds from seven species of ornamental trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate. The data of Germination rate is analized in **SPSS**, using the **Least Significant Difference (LSD) multiple comparison** to determine which groups have significant differences, as shown in Table 3.
+* After liquid nitrogen storage, seeds from seven species of landscape trees, including lilac, Ginkgo biloba, maple, purple leaf barberry, mimosa, wintersweet, and forsythia, retained their ability to germinate. The data of Germination rate is analized in **SPSS**, using the **Least Significant Difference (LSD) multiple comparison** to determine which groups have significant differences, as shown in Table 3.
 
 <p><center><b>Table.3 Germination rate of the seeds</b></center></p>
 
