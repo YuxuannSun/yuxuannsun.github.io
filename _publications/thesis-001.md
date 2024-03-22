@@ -529,15 +529,15 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-004-01.png" alt="1" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-004-01.png" alt="1" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Lonicera maackii</em> preserved in room temperature</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
-        <img src="/images/pub-images/thesis-001-figure-004-02.png" alt="2" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-004-02.png" alt="2" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Lonicera maackii</em> preserved in liquid nitrogen for 10 days</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-004-03.png" alt="3" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-004-03.png" alt="3" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Lonicera maackii</em> preserved in liquid nitrogen for no less than 30 days</p>
     </div>
 </div>
@@ -548,15 +548,15 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-005-01.png" alt="1" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-005-01.png" alt="1" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Syringa oblata</em> preserved in room temperature</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
-        <img src="/images/pub-images/thesis-001-figure-005-02.png" alt="2" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-005-02.png" alt="2" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Syringa oblata</em> preserved in liquid nitrogen for 10 days</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-005-03.png" alt="3" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-005-03.png" alt="3" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Syringa oblata</em> preserved in liquid nitrogen for no less than 30 days</p>
     </div>
 </div>
@@ -568,11 +568,11 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 ### 5.2 Appendix B: Part of the seeds' growth status after cryopreservation and transplanting
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 300px;">
         <img src="/images/pub-images/thesis-001-figure-006-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
         <p>Growth status after cryopreservation and transplanting of <em>Acer truncatum</em></p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin-left: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 300px; margin-left: 20px;">
         <img src="/images/pub-images/thesis-001-figure-006-02.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto; margin: 0 20px;">
         <p>Growth status after cryopreservation and transplanting of <em>Syringa oblata</em></p>
     </div>
