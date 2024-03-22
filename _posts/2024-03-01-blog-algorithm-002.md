@@ -10,8 +10,6 @@ tags:
 
 Algorithm: Euclidean clustering
 
-This is a record of the reading process, aimed at personal learning, reading and writing practicing.
-
 Euclidean clustering的本质是基于点之间的欧几里得距离来实现点云数据的聚类。其基本思想是将空间中距离较近的点归为同一簇，从而将点云数据划分成具有一定意义的子集。
 
 Euclidean clustering的一个主要应用就是对点云数据进行分割。通过将点云数据中距离较近的点聚类到同一簇中，Euclidean clustering能够将点云数据分割成具有一定意义的子集，从而实现对场景或物体的分割和识别。这对于许多应用场景如目标识别、环境建模、障碍物检测等都非常有用。Euclidean clustering能够帮助系统更好地理解点云数据，从而支持更高级别的决策和分析。

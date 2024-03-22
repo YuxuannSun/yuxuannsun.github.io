@@ -10,10 +10,6 @@ tags:
 
 Algorithm: Principal components analysis (PCA)
 
-This is a record of the reading process, aimed at personal learning, reading and writing practicing.
-
-
-
 主成分分析（PCA）是由卡尔·皮尔逊（Karl Pearson）在1901年提出的。虽然他是第一个将这一概念应用于数据分析的人，但是PCA的数学形式和现代的理解则是由哈罗德·霍特林（Harold Hotelling）在1933年进一步发展和推广的。
 
 >Reference: 
