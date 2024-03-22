@@ -27,20 +27,6 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
-* **Remote sensing:** Fundamental knowledge.
-
-  * Learned by non-degree course: Theory and Application of Remote Sensing (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
-
-* **GIS:** Fundamental knowledge and application skills.
-
-  * Learned by non-degree course: Spatial  Analysis and Application of GIS (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
-
-  * Practiced by degree course: Regional Landscape Planning STUDIO (by [Prof. Hailong Liu](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/1794) and [Prof. Zhicong Zhao](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1972)).
-
-* **BIM:** Fundamental knowledge and application skills.
-
-  * Learned and Practiced by degree course: Landscape Architecture Technology (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and practical project.
-
 * **Math:** Fundamental knowledge of Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics.
 
   * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
@@ -68,6 +54,20 @@ The following are the knowledge and skills I have acquired through undergraduate
   * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), and papers from [Arxiv](https://arxiv.org/) and International Conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
+
+* **Remote sensing:** Fundamental knowledge.
+
+  * Learned by non-degree course: Theory and Application of Remote Sensing (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
+
+* **GIS:** Fundamental knowledge and application skills.
+
+  * Learned by non-degree course: Spatial  Analysis and Application of GIS (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
+
+  * Practiced by degree course: Regional Landscape Planning STUDIO (by [Prof. Hailong Liu](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/1794) and [Prof. Zhicong Zhao](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1972)).
+
+* **BIM:** Fundamental knowledge and application skills.
+
+  * Learned and Practiced by degree course: Landscape Architecture Technology (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and practical project.
 
 * **Language:** Chinese, English.
 
