@@ -39,6 +39,9 @@ author_profile: true
   - [3.3 Determination results and analysis of seed germination rate after liquid nitrogen preservation](#33-determination-results-and-analysis-of-seed-germination-rate-after-liquid-nitrogen-preservation)
   - [3.4 Outdoor sowing status and analysis of seeds after liquid nitrogen preservation](#34-outdoor-sowing-status-and-analysis-of-seeds-after-liquid-nitrogen-preservation)
 - [4 Conclusion and Discussion](#4-conclusion-and-discussion)
+- [5 Appendix](#5-appendix)
+  - [5.1 Appendix A: Part of the seeds' germination in laboratory](#51-appendix-a-part-of-the-seeds-germination-in-laboratory)
+  - [5.2 Appendix B: Part of the seeds' growth status after cryopreservation and transplanting](#52-appendix-b-part-of-the-seeds-growth-status-after-cryopreservation-and-transplanting)
 
 Abstract
 ------
@@ -497,11 +500,83 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 * During the germination and sowing experiments, some seeds showed mold growth in the warm and humid incubator environment. Due to the limited duration of the experiments, some seeds were not subjected to prolonged stratification pre-treatment, which may cause the failure of germination for some seeds. In the sowing experiments, it was challenging to provide the optimal sowing treatment for all seeds based on their individual growth characteristics. For example, factors such as the thickness of the covering soil after sowing could only be adjusted to meet the general requirements for suitable growth of all seeds as much as possible. Additionally, the high winds in Beijing during the spring and the rainfall in May led to the rapid germination and growth of some weed seeds in the experimental site, which may cause the failure of some seeds to germinate properly.
 
-
-
 [^1]: <span style="font-size: 1.8em;">[Qian, L. I. U., et al. "Storage methods of 12 species of lilac (Syringa L.) pollen." Acta Agriculturae Zhejiangensis 26.3 (2014): 615-620.](http://www.zjnyxb.cn/EN/Y2014/V26/I3/0)</span>
 
 [^2]: <span style="font-size: 1.8em;">[河英虎, 傅伊倩, and 刘燕. "合欢和青杄种子超低温保存研究." 种子 32.3 (2013): 33-35+40.](https://kns.cnki.net/kcms2/article/abstract?v=DFdco8SIy0L4yYzzTu4_27QWLPQOHQmXkaeBW79Np4-XqMZt9wLB5sQI2Xghid5LLtHN-t9lBxPngVyeG1wFDM-LmKxRSXdI3zG73Jj0FS-zscwO7xgTaZFxcOeuhtI7cEo9yaoMAVk=&uniplatform=NZKPT&language=CHS)</span>
+
+## 5 Appendix
+
+### 5.1 Appendix A: Part of the seeds' germination in laboratory
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-003-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
+        <p><em>Albizia julibrissin</em> preserved in room temperature</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
+        <img src="/images/pub-images/thesis-001-figure-003-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
+        <p><em>Albizia julibrissin</em> preserved in liquid nitrogen for 10 days</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-003-03.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <p><em>Albizia julibrissin</em> preserved in liquid nitrogen for no less than 30 days</p>
+    </div>
+</div>
+
+<center><b>Fig.A1 Germination of <em>Albizia julibrissin</em> seed in laboratory</b></center>
+
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-004-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
+        <p><em>Lonicera maackii</em> preserved in room temperature</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
+        <img src="/images/pub-images/thesis-001-figure-004-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
+        <p><em>Lonicera maackii</em> preserved in liquid nitrogen for 10 days</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-004-03.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <p><em>Lonicera maackii</em> preserved in liquid nitrogen for no less than 30 days</p>
+    </div>
+</div>
+
+<center><b>Fig.A2 Germination of <em>Lonicera maackii</em> seed in laboratory</b></center>
+
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-005-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
+        <p><em>Syringa oblata</em> preserved in room temperature</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
+        <img src="/images/pub-images/thesis-001-figure-005-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
+        <p><em>Syringa oblata</em> preserved in liquid nitrogen for 10 days</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-005-03.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <p><em>Syringa oblata</em> preserved in liquid nitrogen for no less than 30 days</p>
+    </div>
+</div>
+
+<center><b>Fig.A3 Germination of <em>Syringa oblata</em> seed in laboratory</b></center>
+
+
+### 5.2 Appendix B: Part of the seeds' growth status after cryopreservation and transplanting
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-006-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
+        <p>Growth status after cryopreservation and transplanting of <em>Acer truncatum</em></p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/pub-images/thesis-001-figure-006-02.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <p>Growth status after cryopreservation and transplanting of <em>Syringa oblata</em></p>
+    </div>
+</div>
+
+<center><b>Fig.A3 Germination of <em>Syringa oblata</em> seed in laboratory</b></center>
+
 
 <style>
     .image-container {
