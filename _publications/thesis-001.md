@@ -508,20 +508,21 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 
 ### 5.1 Appendix A: Part of the seeds' germination in laboratory
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: center; margin: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-003-01.png" alt="Degree of staining '+'" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-003-01.png" alt="1" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Albizia julibrissin</em> preserved in room temperature</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px; margin: 0 20px;">
-        <img src="/images/pub-images/thesis-001-figure-003-02.png" alt="Degree of staining '++'" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-003-02.png" alt="2" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Albizia julibrissin</em> preserved in liquid nitrogen for 10 days</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-003-03.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-003-03.png" alt="3" style="max-width: 100%; height: auto; object-fit: contain;">
         <p><em>Albizia julibrissin</em> preserved in liquid nitrogen for no less than 30 days</p>
     </div>
 </div>
+
 
 <center><b>Fig.A1 Germination of <em>Albizia julibrissin</em> seed in laboratory</b></center>
 
