@@ -49,21 +49,21 @@ Student work and Awards
 
 * **2023**
 
-  * Teaching Assistant of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
+  * **Teaching Assistant** of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
     * An University-wide optional course, taken by students from diverse academic backgrounds.
     * Helping undergraduate student major in Life Science, Art etc. to reconstruct the 3-D geometric modle of an old, huge *Styphnolobium japonicum* in [National Botanical Garden of China](http://www.chnbg.cn/en_home.html) from point cloud data.
 
-  * Teaching Assistant of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
+  * **Teaching Assistant** of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
     * A required course for undergraduate student from Department of Landscape Architecture.
     * Collaborating with students to utilize Terrestrial Laser Scanning (TLS) to scan campus scenes and assist in visualizing point clouds in CloudCompare.
 
 * **2018**
   
-  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
+  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an **Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University**.
 
 * **2015**
 
-  * Served as the presenter for the team of "[Investigation and Conservation Strategy Research Project of Ancient and Famous Trees in Wuhan, China](https://yuxuannsun.github.io/posts/2015/09/blog-project-001)" , and was awarded the third prize for Excellent Summer Practice by the School of Landscape Architecture at Beijing Forestry University.
+  * Served as the presenter for the team of "[Investigation and Conservation Strategy Research Project of Ancient and Famous Trees in Wuhan, China](https://yuxuannsun.github.io/posts/2015/09/blog-project-001)" , and was awarded **the third prize for Excellent Summer Practice** by the School of Landscape Architecture at Beijing Forestry University.
 
 
 
