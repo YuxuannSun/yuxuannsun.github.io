@@ -570,12 +570,12 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
         <p>Growth status after cryopreservation and transplanting of <em>Acer truncatum</em></p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/pub-images/thesis-001-figure-006-02.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto;">
+        <img src="/images/pub-images/thesis-001-figure-006-02.png" alt="Degree of staining '+++'" style="max-width: 100%; height: auto; margin: 0 20px;">
         <p>Growth status after cryopreservation and transplanting of <em>Syringa oblata</em></p>
     </div>
 </div>
 
-<center><b>Fig.A3 Germination of <em>Syringa oblata</em> seed in laboratory</b></center>
+<center><b>Fig.B Germination of <em>Syringa oblata</em> seed in laboratory</b></center>
 
 
 <style>
@@ -587,7 +587,7 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
     }
 
     .image-container img {
-        max-width: 150px;
+        max-width: 200px;
         height: auto;
     }
 
