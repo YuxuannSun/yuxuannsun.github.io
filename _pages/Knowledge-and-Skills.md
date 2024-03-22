@@ -11,19 +11,21 @@ redirect_from:
 
 The following are the knowledge and skills I have acquired through undergraduate/graduate coursework and self-study.
 
-* **Geo-Science:** Fundamental knowledge.
 
-  * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
-
-* **Ecology:** Fundamental knowledge.
-
-  * Learned by degree course: Theory and Practice of Ecological Restoration (by [Prof. Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306)).
 
 * **Plant Science:** Fundamental knowledge and practicing skills.
 
   * Learned by undergraduate/graduate degree courses such as: Plant Physiology, Floriculture, Dendrology, etc.
 
   * Practiced by undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html)).
+
+* **Ecology:** Fundamental knowledge.
+
+  * Learned by degree course: Theory and Practice of Ecological Restoration (by [Prof. Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306)).
+
+* **Geo-Science:** Fundamental knowledge.
+
+  * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
 * **Remote sensing:** Fundamental knowledge.
 
