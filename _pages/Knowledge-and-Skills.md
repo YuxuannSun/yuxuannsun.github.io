@@ -23,7 +23,9 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Learned by undergraduate/graduate degree courses such as: Theory and Practice of Ecological Restoration (by [Prof. Feng Li](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/2306)).
 
+* **Geo-Science:** Fundamental knowledge.
 
+  * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
 * **Math:** Fundamental knowledge of Calculus, Linear Algebra, Probability and Statistics, Discrete Mathematics.
 
@@ -52,10 +54,6 @@ The following are the knowledge and skills I have acquired through undergraduate
   * Learned by self-study using resources from [Github](https://github.com/), [Bilibili](https://www.bilibili.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), and papers from [Arxiv](https://arxiv.org/) and International Conferences such as [AAAI](https://aaai.org/), [NeurIPS](https://neurips.cc/), etc.
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
-
-* **Geo-Science:** Fundamental knowledge.
-
-  * Learned by degree course: Foundation of Landscape Geo-Science (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
 * **Remote sensing:** Fundamental knowledge.
 
