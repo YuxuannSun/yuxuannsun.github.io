@@ -1,7 +1,7 @@
 ---
 title: 'Algorithm: Density-based spatial clustering of applications with noise (DBSCAN) '
 date: 2024-03-03
-permalink: /posts/2024/03/blog-algorithm-002/
+permalink: /posts/2024/03/blog-algorithm-003/
 author_profile: true
 tags:
   - Point Cloud
