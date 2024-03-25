@@ -13,7 +13,7 @@ I'm now looking for opportunities as an intern/visiting student/research assista
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
-My research interests are in **point clouds data processing**, **plant modeling** and their **applications**.
+My research interests are in **point cloud data processing**, **plant modeling** and their **applications**.
 
 <!--
 * **Point clouds data processing:**<br>
