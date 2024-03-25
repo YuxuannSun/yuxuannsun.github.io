@@ -53,7 +53,63 @@ PCA的基本思想是将原始数据投影到一个新的坐标系中，使得�
 * PCA对数据的线性关系敏感，如果数据存在非线性关系，PCA可能无法有效提取数据的结构信息。
 * 选择合适的主成分数量是一个重要的问题，通常可以通过保留一定比例的方差来确定主成分的数量。
 
+* python使用NumPy库手动实现PCA的代码，包括数据标准化、计算协方差矩阵、特征值分解、选择主成分和投影数据等步骤。最后输出了主成分和解释方差比，并绘制了原始数据和降维后的数据的散点图以进行可视化比较。
 
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+# 创建一个示例数据集
+X = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]])
+
+# 1. 数据标准化（可选）
+X_mean = np.mean(X, axis=0)  # 计算每个特征的均值
+X_std = np.std(X, axis=0)    # 计算每个特征的标准差
+X_standardized = (X - X_mean) / X_std  # 对数据进行标准化处理
+
+# 2. 计算协方差矩阵
+cov_matrix = np.cov(X_standardized, rowvar=False)
+
+# 3. 特征值分解
+eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
+
+# 4. 选择主成分
+# 对特征值从大到小排序，并获取排序后的索引
+sorted_indices = np.argsort(eigenvalues)[::-1]
+# 根据排序后的索引选择最重要的几个特征向量作为主成分
+num_components = 2  # 指定要保留的主成分数量
+principal_components = eigenvectors[:, sorted_indices[:num_components]]
+
+# 5. 投影数据
+X_transformed = np.dot(X_standardized, principal_components)
+
+# 输出主成分和方差解释比
+print("Principal components:")
+print(principal_components)
+print("\nExplained variance ratio:")
+explained_variance_ratio = eigenvalues[sorted_indices[:num_components]] / np.sum(eigenvalues)
+print(explained_variance_ratio)
+
+# 绘制原始数据和降维后的数据
+plt.figure(figsize=(8, 4))
+
+# 绘制原始数据
+plt.subplot(1, 2, 1)
+plt.title("Original Data")
+plt.scatter(X[:, 0], X[:, 1], label='Feature 1', color='blue')
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
+
+# 绘制降维后的数据
+plt.subplot(1, 2, 2)
+plt.title("PCA Transformed Data")
+plt.scatter(X_transformed[:, 0], X_transformed[:, 1], label='PC1', color='red')
+plt.xlabel('Principal Component 1')
+plt.ylabel('Principal Component 2')
+
+plt.tight_layout()
+plt.show()
+```
 
 
 

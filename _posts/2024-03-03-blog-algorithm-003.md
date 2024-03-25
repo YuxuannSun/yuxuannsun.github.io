@@ -86,5 +86,4 @@ if __name__ == "__main__":
     dbscan.fit(X)
 
     print("Labels:", dbscan.labels)
-
 ```

@@ -47,4 +47,60 @@ Euclidean clustering的一个主要应用就是对点云数据进行分割。通
 
 欧几里得距离的概念早在古希腊时期就被发现了，它是由古希腊数学家欧几里得在其著作《几何原本》（Elements）中提出的。《几何原本》是一部关于几何学的经典著作，大约写于公元前300年左右。在其中，欧几里得定义了点之间的直线距离，即欧几里得距离，并且讨论了欧几里得空间中的各种几何性质和定理。总的来说，欧几里得距离是一种简单而有效的距离度量方式，具有直观性和数学可解释性，被广泛应用于各种领域的数据分析和模式识别任务中。
 
+* python手动实现，这段代码首先定义了一个用于计算两个点之间欧几里德距离的函数euclidean_distance，然后实现了手动的欧几里德聚类算法euclidean_clustering。在这个函数中，我们首先初始化了一个空的簇列表clusters，和一个用于跟踪点是否被访问过的列表visited。然后，我们遍历数据点，对于每个未被访问过的点，我们创建一个新的簇，并将其添加到簇列表中。接下来，我们遍历数据集中的其他点，如果某个点与当前点的距离小于阈值epsilon，则将其添加到当前簇中，并标记为已访问。最后，我们将当前簇添加到簇列表中，并继续处理下一个未被访问的点。最终，我们返回聚类结果。
 
+```
+import numpy as np
+
+def euclidean_distance(point1, point2):
+    """
+    计算两个点之间的欧几里德距离
+    """
+    # 使用numpy中的函数计算两个点之间的欧几里德距离
+    return np.sqrt(np.sum((point1 - point2) ** 2))
+
+def euclidean_clustering(points, epsilon):
+    """
+    手动实现的欧几里德聚类算法
+    """
+    # 初始化簇列表
+    clusters = []
+    # 创建一个列表用于跟踪数据点的访问情况
+    visited = [False] * len(points)
+
+    # 遍历每个数据点
+    for i, point in enumerate(points):
+        if not visited[i]:
+            # 将当前点标记为已访问
+            visited[i] = True
+            # 创建一个新的簇，并将当前点添加到簇中
+            cluster = [i]
+            
+            # 遍历数据集中的其他点，找到与当前点距离小于epsilon的点
+            for j, other_point in enumerate(points):
+                if not visited[j] and euclidean_distance(point, other_point) < epsilon:
+                    # 将该点标记为已访问，并将其添加到当前簇中
+                    visited[j] = True
+                    cluster.append(j)
+            
+            # 将当前簇添加到簇列表中
+            clusters.append(cluster)
+    
+    # 返回聚类结果
+    return clusters
+
+# 示例数据
+points = np.array([[1, 2], [2, 2], [2, 3],
+                   [8, 7], [8, 8], [7, 8],
+                   [25, 80], [30, 90], [24, 81]])
+
+# 设定聚类的阈值
+epsilon = 3
+
+# 进行欧几里德聚类
+clusters = euclidean_clustering(points, epsilon)
+
+# 打印聚类结果
+for i, cluster in enumerate(clusters):
+    print(f'Cluster {i+1}: {points[cluster]}')
+```
