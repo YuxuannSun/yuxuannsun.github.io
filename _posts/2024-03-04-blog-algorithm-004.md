@@ -35,6 +35,7 @@ Algorithm: Dijkstra
 * 需要注意的是，Dijkstra算法只适用于没有负权边的图，因为负权边可能导致算法失效。如果图中存在负权边，可以考虑使用其他算法，如Bellman-Ford算法。
 
 * python实现
+
 ```
 def dijkstra(graph, start):
     # 初始化距离字典，用于存储起始顶点到其他顶点的最短距离
