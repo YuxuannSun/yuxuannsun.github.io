@@ -51,7 +51,7 @@ Student work and Awards
 
   * **Teaching Assistant** of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
     * An University-wide optional course, taken by students from diverse academic backgrounds.
-    * Helping undergraduate student major in Life Science, Art etc. to **reconstruct the 3-D geometric modle of an old, huge *Styphnolobium japonicum*** in [National Botanical Garden of China](http://www.chnbg.cn/en_home.html) from point cloud data.
+    * Helping undergraduate student major in Life Science, Art etc. to **reconstruct the 3-D geometric model of an old, huge *Styphnolobium japonicum*** in [National Botanical Garden of China](http://www.chnbg.cn/en_home.html) from point cloud data.
 
   * **Teaching Assistant** of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
     * A required course for undergraduate student from Department of Landscape Architecture.
