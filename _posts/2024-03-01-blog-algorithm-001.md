@@ -56,7 +56,7 @@ PCA的基本思想是将原始数据投影到一个新的坐标系中，使得�
 
 * python使用NumPy库手动实现PCA的代码，包括数据标准化、计算协方差矩阵、特征值分解、选择主成分和投影数据等步骤。最后输出了主成分和解释方差比，并绘制了原始数据和降维后的数据的散点图以进行可视化比较。
 
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 

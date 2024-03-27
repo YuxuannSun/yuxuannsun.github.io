@@ -31,7 +31,7 @@ Algorithm: Density-based spatial clustering of applications with noise (DBSCAN)
 
 * python实现
 
-```
+```python
 from sklearn.neighbors import NearestNeighbors  # 导入用于计算最近邻的模块
 import numpy as np  # 导入用于处理数组的模块
 

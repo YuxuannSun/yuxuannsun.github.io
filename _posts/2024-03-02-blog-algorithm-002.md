@@ -49,7 +49,7 @@ Euclidean clustering的一个主要应用就是对点云数据进行分割。通
 
 * python手动实现，这段代码首先定义了一个用于计算两个点之间欧几里德距离的函数euclidean_distance，然后实现了手动的欧几里德聚类算法euclidean_clustering。在这个函数中，我们首先初始化了一个空的簇列表clusters，和一个用于跟踪点是否被访问过的列表visited。然后，我们遍历数据点，对于每个未被访问过的点，我们创建一个新的簇，并将其添加到簇列表中。接下来，我们遍历数据集中的其他点，如果某个点与当前点的距离小于阈值epsilon，则将其添加到当前簇中，并标记为已访问。最后，我们将当前簇添加到簇列表中，并继续处理下一个未被访问的点。最终，我们返回聚类结果。
 
-```
+```python
 import numpy as np
 
 def euclidean_distance(point1, point2):
