@@ -39,11 +39,11 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
-* **Computer Programming:** Fundamental knowledge and experience in using *Python* and *R*.
+* **Computer Programming:** Fundamental knowledge, experience in using *Python*, *R* and *HTML*.
 
   * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
-  * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
+  * Practiced by self-study using resources from [Github](https://github.com/), [Kaggle](https://www.kaggle.com/) and maintaining personal website.
 
 * **Computer Graphics:** Fundamental Knowledge and some cutting-edge Research Work in recent years (about plant modeling).
 
