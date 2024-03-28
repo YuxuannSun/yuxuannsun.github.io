@@ -559,7 +559,7 @@ $$ \text{Moisture content(%)} = \frac{ M_{2} - M_{3} }{ M_{2} - M_{1} } \times 1
 </div>
 
 
-<center><b>Fig.B Germination of <em>Syringa oblata</em> seed in laboratory</b></center>
+<center><b>Fig.B Part of the seeds' growth status after cryopreservation and transplanting</b></center>
 
 
 <style>
