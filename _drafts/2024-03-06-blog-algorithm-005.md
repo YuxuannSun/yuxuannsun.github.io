@@ -1,7 +1,7 @@
 ---
 title: 'Algorithm: Dijkstra'
-date: 2024-03-04
-permalink: /posts/2024/03/blog-algorithm-004/
+date: 2024-03-06
+permalink: /posts/2024/03/blog-algorithm-005/
 author_profile: true
 tags:
   - Point Cloud
@@ -12,7 +12,7 @@ Algorithm: Dijkstra
 
 * [DIJKSTRA, EW. "A Note on Two Problems in Connexion with Graphs." Numerische Mathematik 1 (1959): 269-271.](https://doi.org/10.1007/BF01386390)
 
-* Dijkstra算法是一种用于解决图中单源最短路径问题的经典算法，由荷兰计算机科学家Edsger W. Dijkstra提出。该算法可以应用于有向图或无向图，但边的权重必须为非负值。
+* Dijkstra算法是一种用于解决图中单源最短路径问题的经典算法，由荷兰计算机科学家Edsger W. Dijkstra在1956年提出。该算法可以应用于有向图或无向图，但边的权重必须为非负值。
 * Dijkstra算法的目标是找到从一个起始顶点到图中所有其他顶点的最短路径。算法基于贪心策略，逐步扩展到其他顶点，并在这个过程中保证每次扩展都是当前已知最短路径的顶点。算法通过维护一个距离数组（或称为距离表），记录从起始顶点到每个顶点的当前已知最短路径长度。同时，使用一个优先级队列（通常使用最小堆）来选择下一个扩展的顶点，以保证每次选择的都是距离起始顶点最近的顶点。
 
 * Dijkstra算法的基本步骤如下：
