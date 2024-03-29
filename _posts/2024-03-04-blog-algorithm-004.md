@@ -36,8 +36,6 @@ Algorithm: Dijkstra
 
 * python实现
 
-
-
 ```python
 def dijkstra(graph, start):
     # 初始化距离字典，用于存储起始顶点到其他顶点的最短距离
