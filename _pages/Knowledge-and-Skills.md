@@ -59,13 +59,13 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Practiced by self-study using resources from [Github](https://github.com/) and [Kaggle](https://www.kaggle.com/).
 
-* **GIS:** Fundamental knowledge and application skills.
+* **Geographic Information System:** Fundamental knowledge and application skills.
 
   * Learned by non-degree course: Spatial  Analysis and Application of GIS (by [Prof. Anrong Dang](http://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1749)).
 
   * Practiced by degree course: Regional Landscape Planning STUDIO (by [Prof. Hailong Liu](http://www.arch.tsinghua.edu.cn/info/FLandscape%20Architecture/1794) and [Prof. Zhicong Zhao](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1972)).
 
-* **BIM:** Fundamental knowledge and application skills.
+* **Building Information Modeling:** Fundamental knowledge and application skills.
 
   * Learned and Practiced by degree course: Landscape Architecture Technology (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)) and practical project.
 
