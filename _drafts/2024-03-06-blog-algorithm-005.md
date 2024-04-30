@@ -79,3 +79,4 @@ shortest_distances = dijkstra(graph, start_vertex)
 print("Shortest distances from vertex", start_vertex, ": ", shortest_distances)
 ```
 
+
