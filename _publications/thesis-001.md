@@ -48,7 +48,7 @@ Abstract
 
 * Germplasm resources are the foundation of human survival and development, and germplasm preservation is of significant importance. Cryopreservation is a method for long-term preservation of germplasm, typically referring to a biotechnological approach of storing biological materials at -196°C (liquid nitrogen temperature). It is currently a hot topic in international germplasm preservation. However, its application in the preservation of seeds from landscape trees is not yet widespread.
 
-* The present research focuses on 24 species of landscape tree seeds, determining their vitality and moisture content. Additionally, it investigates the germination and growth conditions of seeds after cryopreservation at different time intervals, as well as their performance upon field sowing. The aim is to explore the feasibility and technical methods of cryopreservation for these 24 species of garden tree seeds. The results are as follows:
+* The present research focuses on 24 species of landscape tree seeds, determining their vitality and moisture content. Additionally, it investigates the germination and growth conditions of seeds after cryopreservation at different time intervals, as well as their performance upon field sowing. The aim is to explore the feasibility and technical methods of cryopreservation for these 24 species of landscape tree seeds. The results are as follows:
   * Among the 24 species of landscape tree seeds studied, seeds from 7 species including ***Syringa oblata***, ***Lonicera maackiie***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Berberis thunbergii 'Atropurpurea'***, ***Albizia julibrissin*** and ***Forsythia suspensa*** retain their germination ability after 30-50 days of cryopreservation.
   * Seeds from 5 species including ***Syringa oblata***, ***Acer truncatum***, ***Chimonanthus praecox***, ***Albizia julibrissin***, and ***Forsythia suspensa*** still possess the ability to develop into healthy plants after being sown in the field following 30-50 days of cryopreservation. Their growth condition shows no significant difference compared to the control group. Cryopreservation technology is feasible for the application of these 5 species of seeds.
   * Seeds from ***Lonicera maackii*** and ***Acer truncatum*** experience significant enhancement in germination after undergoing cryopreservation for a minimum of 30 days. Additionally, there is a notable decrease in the germination time for ***Acer truncatum*** seeds.
@@ -62,7 +62,7 @@ Abstract
 
 * For most landscape trees, seeds are easily obtainable, and seed propagation is widely used in nurseries.
 
-* Conventional germplasm preservation of woody plants is limited by factors such as land, manpower, high cost, low efficiency, and genetic variation is prone to occur during the preservation process. The application of cryopreservation in woody plants greatly maintains genetic stability of germplasm, which holds certain potential value for garden trees.
+* Conventional germplasm preservation of woody plants is limited by factors such as land, manpower, high cost, low efficiency, and genetic variation is prone to occur during the preservation process. The application of cryopreservation in woody plants greatly maintains genetic stability of germplasm, which holds certain potential value for landscape trees.
 
 ### 1.2 Research status
 
