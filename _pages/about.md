@@ -13,6 +13,8 @@ I'm now looking for opportunities as an intern/visiting student/research assista
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
+Additionally, I'm interning with the cPlant Team at State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences.
+
 My research interests are in **point cloud data processing**, **plant modeling** and their **applications**.
 
 <!--
