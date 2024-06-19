@@ -36,6 +36,10 @@ My research interests are in **point cloud data processing**, **plant modeling**
 Education
 ------
 
+* **2024-**
+
+  * Intern, cPlant Team, State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences, China.
+
 * **2022-**
 
   * Master's student, Department of Landscape Architecture, Tsinghua University, China.
