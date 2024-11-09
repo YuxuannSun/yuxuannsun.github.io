@@ -13,7 +13,7 @@ author_profile: true
 
 >* The following content is an excerpt and translation of my undergraduate thesis, aimed at personal knowledge reviewing and writing practicing.
 >* The original version was written in Chinese, awarded as an Outstanding Undergraduate Thesis of the Class of 2018 at Beijing Forestry University.
->* The thesis was supported by the National Engineering Research Center for Floriculture, China, and was advised by [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/famous/index.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
+>* The thesis was supported by the National Engineering Research Center for Floriculture, China, and was advised by [Prof. Dr. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/office/js/378911.html), whose integrity, kindness, and rigorous character constantly benefit students for life.
 
 - [Abstract](#abstract)
 - [1 Introduction](#1-introduction)

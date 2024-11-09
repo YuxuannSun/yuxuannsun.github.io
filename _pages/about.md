@@ -13,7 +13,7 @@ I'm now looking for opportunities as an intern/visiting student/research assista
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
-Additionally, I'm interning with the cPlant Team [formerly known as GreenLab, a LIAMA (Sino-French Laboratory in Computer Sciences, Automation and Applied Mathmatics) project launched in 1998, associate team of INRIA Digiplant Project, now led by [Prof. Mengzhen Kang](https://people.ucas.ac.cn/~kangmengzhen?language=en)] at State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences.
+Additionally, I'm interning with the cPlant Team [formerly known as GreenLab, a LIAMA (Sino-French Laboratory in Computer Sciences, Automation and Applied Mathmatics) project launched in 1998, associate team of INRIA Digiplant Project, now led by [Prof. Dr. Mengzhen Kang](https://people.ucas.ac.cn/~kangmengzhen?language=en)] at State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences.
 
 My research interests are in **point cloud data processing**, **plant modeling** and their **applications**.
 
@@ -55,17 +55,17 @@ Student work and Awards
 
 * **2023**
 
-  * **Teaching Assistant** of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
+  * **Teaching Assistant** of the Course: [The Innovation Practice in Smart City](https://www.icenter.tsinghua.edu.cn/info/1034/2151.htm) (by [Prof. Dr. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)), part of [The Program for Certification in Artificial Intelligence Innovation and Entrepreneurship Ability](https://www.icenter.tsinghua.edu.cn/info/1034/2155.htm) (Undergratuate & Graduated course in Tsinghua University). 
     * An University-wide optional course, taken by students from diverse academic backgrounds.
     * Helping undergraduate student major in Life Science, Art etc. to **reconstruct the 3-D geometric model of an old, huge *Styphnolobium japonicum*** in [National Botanical Garden of China](http://www.chnbg.cn/en_home.html) from point cloud data.
 
-  * **Teaching Assistant** of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
+  * **Teaching Assistant** of the Course: Landscape Architecture Engineering (Undergratuate course in Tsinghua University) (by [Prof. Dr. Yong Guo](http://www.arch.tsinghua.edu.cn/info/rw_fjly/1979)). 
     * A required course for undergraduate student from Department of Landscape Architecture.
     * Collaborating with students to utilize **Terrestrial Laser Scanning (TLS)** to scan campus scenes and assist in visualizing point clouds in CloudCompare.
 
 * **2018**
   
-  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/office/js/378911.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an **Outstanding Undergraduate Thesis of the Class of 2018 at Beijing Forestry University**.
+  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Dr. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/office/js/378911.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an **Outstanding Undergraduate Thesis of the Class of 2018 at Beijing Forestry University**.
 
 * **2015**
 
