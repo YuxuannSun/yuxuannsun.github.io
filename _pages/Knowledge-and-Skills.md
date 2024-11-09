@@ -39,7 +39,7 @@ The following are the knowledge and skills I have acquired through undergraduate
 
   * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 
-* **Computer Programming:** Fundamental knowledge, experience in using *Python*, *R* and *HTML*.
+* **Computer Programming:** Fundamental knowledge, mainly using *Matlab*, experience in using *Python*, *R*, *LaTeX* and *HTML*.
 
   * Learned by self-study using resources from [Github](https://github.com/), [Tsinghua University Library](https://lib.tsinghua.edu.cn/en/), [中国大学MOOC](https://www.icourse163.org/), [YouTube](https://www.youtube.com/) and [Bilibili](https://www.bilibili.com/).
 

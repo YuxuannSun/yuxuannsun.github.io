@@ -65,7 +65,7 @@ Student work and Awards
 
 * **2018**
   
-  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/office/js/378911.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an **Excellent Undergraduate Thesis of the Class of 2018 at Beijing Forestry University**.
+  * Undergraduate thesis: "[Research on Cryopreservation of 24 Seeds of the Landscape Trees](https://yuxuannsun.github.io/Publications/thesis-001)" (Advisor: [Prof. Yan Liu](https://sola.bjfu.edu.cn/cn/teachers/office/js/378911.html))(supported by the National Engineering Research Center for Floriculture, China) was awarded as an **Outstanding Undergraduate Thesis of the Class of 2018 at Beijing Forestry University**.
 
 * **2015**
 
