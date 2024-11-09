@@ -13,7 +13,8 @@ author_profile: true
 
 
 >* The following content is an excerpt and translation of the original paper, aimed at personal writing practicing.
->* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in ["数字景观——中国第六届数字景观学术论坛"](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODY5Ng==&mid=2247554452&idx=1&sn=91500987edcb7d9cae32d5b7e99cb3ac&chksm=ea99a183ddee28956b225c116f3f4e5f0f246868dd5ce748e6f3dc1d55097017f4b2aa143710&scene=27) in Chinese.
+>* The original paper "面向古树名木保护的数字孪生树木技术应用研究" was published in "数字景观——中国第六届数字景观学术论坛" (Chinese
+6th Digital Landscape Architecture Conference, Nanjing, 2023, pp. 39-46) in Chinese.
 >* ResearchGate: [Link](https://www.researchgate.net/publication/378829911_mianxianggushumingmubaohudeshuziluanshengshumujishuyingyongyanjiu)
 
 - [Abstract](#abstract)
@@ -98,7 +99,7 @@ Abstract
 
 ### 3.1 Structural parameters and analysis
 
-* Based on the above method, two sets of models of the tree and their data were obtained. Quantitative data analysis was conducted in R to examine specific structural parameters.The data reflects the actual growth status of the tree, and the results observed on-site are consistent with the information reflected in the digital model.
+* Based on the above method, two sets of models of the tree and their data were obtained. Quantitative data analysis was conducted using R package ITSMe[^5] to examine specific structural parameters.The data reflects the actual growth status of the tree, and the results observed on-site are consistent with the information reflected in the digital model.
 
 <table>
   <tr>
@@ -152,6 +153,8 @@ In the future, this research could be expanded and further explored in the follo
 [^3]: <span style="font-size: 1.8em;">[Shinozaki K, Yoda K, Hozumi K, et al. A quantitative analysis of plant form-the pipe model theory: I. Basic analyses[J]. Japanese Journal of ecology, 1964, 14(3): 97-105.](https://doi.org/10.18960/seitai.14.3_97)</span>
 
 [^4]: <span style="font-size: 1.8em;">[Côté J F, Fournier R A, Frazer G W, et al. A fine-scale architectural model of trees to enhance LiDAR-derived measurements of forest canopy structure[J]. Agricultural and forest meteorology, 2012, 166: 72-85.](https://doi.org/10.1016/j.agrformet.2012.06.007)</span>
+
+[^5]: <span style="font-size: 1.8em;">[Terryn L, Calders K, Åkerblom M, et al. Analysing individual 3D tree structure using the R package ITSMe[J]. Methods in Ecology and Evolution, 2023, 14(1): 231-241.](https://doi.org/10.1111/2041-210X.14026)</span>
 
 
 <html lang="en">
