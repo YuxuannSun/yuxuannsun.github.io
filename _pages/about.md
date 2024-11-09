@@ -69,7 +69,7 @@ Student work and Awards
 
 * **2015**
 
-  * Served as the presenter for the team of "[Investigation and Conservation Strategy Research Project of Ancient and Famous Trees in Wuhan, China](https://yuxuannsun.github.io/posts/2015/09/blog-project-001)" , and was awarded **the third prize for Excellent Summer Practice** by the School of Landscape Architecture at Beijing Forestry University.
+  * Served as the presenter for the team of "[Investigation and Conservation Strategy Research Project of Ancient and Famous Trees in Wuhan, China](https://yuxuannsun.github.io/posts/2015/09/blog-project-001)" , and was awarded **the third prize for Outstanding Summer Practice** by the School of Landscape Architecture at Beijing Forestry University.
 
 
 
