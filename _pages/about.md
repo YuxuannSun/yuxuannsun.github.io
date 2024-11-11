@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,6 +28,8 @@ redirect_from:
 </div>
 
 
+About
+------
 
 <!--
 I'm now looking for opportunities as an intern/visiting student/research assistant in a suitable research team for further study.
