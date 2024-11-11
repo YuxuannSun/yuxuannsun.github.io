@@ -39,40 +39,20 @@ My Work at a Glance
         <img src="/images/glance-images/glance-007.png" 
              style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-007.png', this)">
+        <img src="/images/glance-images/glance-008.png" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-008.png', this)">
+        <img src="/images/glance-images/glance-009.png" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-009.png', this)">
+        <img src="/images/glance-images/glance-010.png" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-010.png', this)">
+        <img src="/images/glance-images/glance-011.png" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-011.png', this)">
   </div>
 </div>
-
-<script>
-    // 图片数组
-    const images = [
-        "/images/glance-images/glance-001.jpg",
-        "/images/glance-images/glance-002.jpg",
-        "/images/glance-images/glance-003.jpg",
-        "/images/glance-images/glance-004.png",
-        "/images/glance-images/glance-005.png",
-        "/images/glance-images/glance-006.png",
-        "/images/glance-images/glance-007.png"
-    ];
-
-    let currentIndex = 0;
-
-    function changeImage(src, thumbnail) {
-        document.getElementById("mainImage").src = src;
-        currentIndex = images.indexOf(src);
-    }
-
-    function autoPlay() {
-        currentIndex = (currentIndex + 1) % images.length;
-        document.getElementById("mainImage").src = images[currentIndex];
-    }
-
-    // 页面加载后开始自动播放
-    window.onload = function() {
-        setInterval(autoPlay, 3000);
-    };
-</script>
-
-
 
 About
 ------
