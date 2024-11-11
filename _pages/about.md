@@ -17,27 +17,27 @@ My Work at a Glance
        style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
 
   <!-- 缩略图区 -->
-  <div style="width: 30%; display: flex; flex-direction: column;">
+  <div style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
         <img src="/images/glance-images/glance-001.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-001.jpg', this)">
         <img src="/images/glance-images/glance-002.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-002.jpg', this)">
         <img src="/images/glance-images/glance-003.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-003.jpg', this)">
         <img src="/images/glance-images/glance-004.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-004.png', this)">
         <img src="/images/glance-images/glance-005.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-005.png', this)">
         <img src="/images/glance-images/glance-006.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-006.png', this)">
         <img src="/images/glance-images/glance-007.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
              onclick="changeImage('/images/glance-images/glance-007.png', this)">
   </div>
 </div>
@@ -71,6 +71,7 @@ My Work at a Glance
     // 每3秒自动切换图片
     setInterval(autoPlay, 3000);
 </script>
+
 
 
 
