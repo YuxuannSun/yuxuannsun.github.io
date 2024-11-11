@@ -7,6 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="display: flex; max-width: 800px; margin: auto;">
+  <!-- 主图片展示区 -->
+  <img id="mainImage" src="/images/pub-images/paper-001-figure-001.jpg" alt="Main Image" style="width: 70%; margin-right: 10px;">
+
+  <!-- 缩略图区 -->
+  <div style="width: 30%; display: flex; flex-direction: column;">
+        <img src="/images/pub-images/paper-001-figure-001.jpg" style="cursor: pointer; margin: 5px 0; opacity: 0.6;" onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
+        <img src="/images/pub-images/paper-001-figure-001.jpg" style="cursor: pointer; margin: 5px 0; opacity: 0.6;" onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
+        <img src="/images/pub-images/paper-001-figure-001.jpg" style="cursor: pointer; margin: 5px 0; opacity: 0.6;" onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
+  </div>
+</div>
+
 <!--
 I'm now looking for opportunities as an intern/visiting student/research assistant in a suitable research team for further study.
 -->
