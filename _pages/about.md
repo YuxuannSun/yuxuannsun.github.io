@@ -58,10 +58,6 @@ My Work at a Glance
 
     function changeImage(src, thumbnail) {
         document.getElementById("mainImage").src = src;
-        let thumbnails = document.querySelectorAll('.thumbnail');
-        thumbnails.forEach(img => img.style.opacity = '0.6');
-        thumbnail.style.opacity = '1';
-        // 重置自动播放的计数器
         currentIndex = images.indexOf(src);
     }
 
@@ -70,9 +66,12 @@ My Work at a Glance
         document.getElementById("mainImage").src = images[currentIndex];
     }
 
-    // 每3秒自动切换图片
-    setInterval(autoPlay, 3000);
+    // 页面加载后开始自动播放
+    window.onload = function() {
+        setInterval(autoPlay, 3000);
+    };
 </script>
+
 
 
 About
