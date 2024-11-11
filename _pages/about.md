@@ -19,28 +19,59 @@ My Work at a Glance
   <!-- 缩略图区 -->
   <div style="width: 30%; display: flex; flex-direction: column;">
         <img src="/images/glance-images/glance-001.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-001.jpg'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-001.jpg', this)">
         <img src="/images/glance-images/glance-002.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-002.jpg'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-002.jpg', this)">
         <img src="/images/glance-images/glance-003.jpg" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-003.jpg'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-003.jpg', this)">
         <img src="/images/glance-images/glance-004.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-004.png'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-004.png', this)">
         <img src="/images/glance-images/glance-005.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-005.png'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-005.png', this)">
         <img src="/images/glance-images/glance-006.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-006.png'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-006.png', this)">
         <img src="/images/glance-images/glance-007.png" 
-             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-007.png'; this.style.opacity='1';">
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 80px; height: 60px; object-fit: cover;" 
+             onclick="changeImage('/images/glance-images/glance-007.png', this)">
   </div>
 </div>
+
+<script>
+    // 图片数组
+    const images = [
+        "/images/glance-images/glance-001.jpg",
+        "/images/glance-images/glance-002.jpg",
+        "/images/glance-images/glance-003.jpg",
+        "/images/glance-images/glance-004.png",
+        "/images/glance-images/glance-005.png",
+        "/images/glance-images/glance-006.png",
+        "/images/glance-images/glance-007.png"
+    ];
+
+    let currentIndex = 0;
+
+    function changeImage(src, thumbnail) {
+        document.getElementById("mainImage").src = src;
+        let thumbnails = document.querySelectorAll('.thumbnail');
+        thumbnails.forEach(img => img.style.opacity = '0.6');
+        thumbnail.style.opacity = '1';
+    }
+
+    function autoPlay() {
+        currentIndex = (currentIndex + 1) % images.length;
+        document.getElementById("mainImage").src = images[currentIndex];
+    }
+
+    // 每3秒自动切换图片
+    setInterval(autoPlay, 3000);
+</script>
+
 
 
 About
