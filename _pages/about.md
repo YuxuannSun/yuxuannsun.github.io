@@ -61,6 +61,8 @@ My Work at a Glance
         let thumbnails = document.querySelectorAll('.thumbnail');
         thumbnails.forEach(img => img.style.opacity = '0.6');
         thumbnail.style.opacity = '1';
+        // 重置自动播放的计数器
+        currentIndex = images.indexOf(src);
     }
 
     function autoPlay() {
@@ -71,8 +73,6 @@ My Work at a Glance
     // 每3秒自动切换图片
     setInterval(autoPlay, 3000);
 </script>
-
-
 
 
 About
