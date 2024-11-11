@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My Work at a Glance
-------
 
+<!--
 <div style="display: flex; max-width: 800px; margin: auto;">
-  <!-- 主图片展示区 -->
+
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image" 
        style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
 
-  <!-- 缩略图区 -->
+
   <div style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
         <img src="/images/glance-images/glance-001.jpg" 
              style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
@@ -53,13 +52,10 @@ My Work at a Glance
              onclick="changeImage('/images/glance-images/glance-011.png', this)">
   </div>
 </div>
+-->
 
 About
 ------
-
-<!--
-I'm now looking for opportunities as an intern/visiting student/research assistant in a suitable research team for further study.
--->
 
 I'm currently a Master's student at Department of Landscape Architecture, Tsinghua University.
 
