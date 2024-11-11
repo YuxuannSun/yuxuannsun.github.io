@@ -13,11 +13,7 @@ My Work at a Glance
 
 <div style="display: flex; max-width: 800px; margin: auto;">
   <!-- 主图片展示区 -->
-  <img id="mainImage" src="/images/pub-images/paper-001-figure-001.jpg" alt="Main Image" 
-       style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
-  <img id="mainImage" src="/images/pub-images/paper-001-figure-002.jpg" alt="Main Image" 
-       style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
-  <img id="mainImage" src="/images/pub-images/paper-001-figure-003.jpg" alt="Main Image" 
+  <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image" 
        style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
 
   <!-- 缩略图区 -->
