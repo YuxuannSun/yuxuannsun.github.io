@@ -1,29 +1,48 @@
 ---
 layout: archive
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+My Work at a Glance
+------
+
 <div style="display: flex; max-width: 800px; margin: auto;">
   <!-- 主图片展示区 -->
   <img id="mainImage" src="/images/pub-images/paper-001-figure-001.jpg" alt="Main Image" 
        style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
+  <img id="mainImage" src="/images/pub-images/paper-001-figure-002.jpg" alt="Main Image" 
+       style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
+  <img id="mainImage" src="/images/pub-images/paper-001-figure-003.jpg" alt="Main Image" 
+       style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
 
   <!-- 缩略图区 -->
   <div style="width: 30%; display: flex; flex-direction: column;">
-        <img src="/images/pub-images/paper-001-figure-001.jpg" 
+        <img src="/images/glance-images/glance-001.jpg" 
              style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
-        <img src="/images/pub-images/paper-001-figure-001.jpg" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-001.jpg'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-002.jpg" 
              style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
-        <img src="/images/pub-images/paper-001-figure-001.jpg" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-002.jpg'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-003.jpg" 
              style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
-             onclick="document.getElementById('mainImage').src='/images/pub-images/paper-001-figure-001.jpg'; this.style.opacity='1';">
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-003.jpg'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-004.png" 
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-004.png'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-005.png" 
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-005.png'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-006.png" 
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-006.png'; this.style.opacity='1';">
+        <img src="/images/glance-images/glance-007.png" 
+             style="cursor: pointer; margin: 5px 0; opacity: 0.6; width: 100%; object-fit: contain;" 
+             onclick="document.getElementById('mainImage').src='/images/glance-images/glance-007.png'; this.style.opacity='1';">
   </div>
 </div>
 
