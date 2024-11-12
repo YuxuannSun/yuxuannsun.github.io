@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+Recent work at a glance
+------
 
 <div style="display: flex; max-width: 800px; margin: auto;">
 
@@ -30,7 +31,38 @@ redirect_from:
              class="thumbnail"
              style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
              onclick="changeImage('/images/glance-images/glance-003.jpg', this)">
-        <!-- 可以继续添加更多图片 -->
+        <img src="/images/glance-images/glance-004.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-004.png', this)">
+        <img src="/images/glance-images/glance-005.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-005.png', this)">
+        <img src="/images/glance-images/glance-006.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-006.png', this)">
+        <img src="/images/glance-images/glance-007.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-007.png', this)">
+        <img src="/images/glance-images/glance-008.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-008.png', this)">
+        <img src="/images/glance-images/glance-009.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-009.png', this)">
+        <img src="/images/glance-images/glance-010.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-010.png', this)">
+        <img src="/images/glance-images/glance-011.png" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
+             onclick="changeImage('/images/glance-images/glance-011.png', this)">
   </div>
 </div>
 
