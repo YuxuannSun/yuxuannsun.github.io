@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Recent work at a glance
+
+<!-- 缩略图容器 
+My work at a glance
 ------
 
 <div style="display: flex; max-width: 800px; margin: auto;">
@@ -32,10 +34,10 @@ Recent work at a glance
       }
   </style>
 
-  <!-- 主显示图片 -->
+
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image">
 
-  <!-- 缩略图容器 -->
+
   <div id="thumbnailContainer" style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
         <img src="/images/glance-images/glance-001.jpg" onclick="mainImage.src=this.src;">
         <img src="/images/glance-images/glance-002.jpg" onclick="mainImage.src=this.src;">
@@ -50,7 +52,7 @@ Recent work at a glance
         <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
-
+-->
 
 About
 ------
