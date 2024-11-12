@@ -13,56 +13,39 @@ Recent work at a glance
 
 <div style="display: flex; max-width: 800px; margin: auto;">
 
+  <style>
+      /* 缩略图通用样式 */
+      #thumbnailContainer img {
+          cursor: pointer;
+          width: 100%;
+          opacity: 0.6;
+          transition: opacity 0.3s;
+      }
+      /* 主图片样式 */
+      #mainImage {
+          width: 70%;
+          margin-right: 10px;
+          object-fit: contain;
+          height: auto;
+      }
+  </style>
+
   <!-- 主显示图片 -->
-  <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image" 
-       style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
+  <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image">
 
   <!-- 缩略图容器 -->
-  <div style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
-        <img src="/images/glance-images/glance-001.jpg" 
-             class="thumbnail active"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-001.jpg', this)">
-        <img src="/images/glance-images/glance-002.jpg" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-002.jpg', this)">
-        <img src="/images/glance-images/glance-003.jpg" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-003.jpg', this)">
-        <img src="/images/glance-images/glance-004.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-004.png', this)">
-        <img src="/images/glance-images/glance-005.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-005.png', this)">
-        <img src="/images/glance-images/glance-006.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-006.png', this)">
-        <img src="/images/glance-images/glance-007.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-007.png', this)">
-        <img src="/images/glance-images/glance-008.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-008.png', this)">
-        <img src="/images/glance-images/glance-009.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-009.png', this)">
-        <img src="/images/glance-images/glance-010.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-010.png', this)">
-        <img src="/images/glance-images/glance-011.png" 
-             class="thumbnail"
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
-             onclick="changeImage('/images/glance-images/glance-011.png', this)">
+  <div id="thumbnailContainer" style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
+        <img src="/images/glance-images/glance-001.jpg" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-002.jpg" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-003.jpg" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-004.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-005.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-006.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-007.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-008.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-009.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-010.png" onclick="mainImage.src=this.src;">
+        <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
 
