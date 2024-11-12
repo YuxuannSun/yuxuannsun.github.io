@@ -9,50 +9,46 @@ redirect_from:
 ---
 
 
-<!--
+
 <div style="display: flex; max-width: 800px; margin: auto;">
 
+  <!-- 主显示图片 -->
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image" 
        style="width: 70%; margin-right: 10px; object-fit: contain; height: auto;">
 
-
+  <!-- 缩略图容器 -->
   <div style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
         <img src="/images/glance-images/glance-001.jpg" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             class="thumbnail active"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
              onclick="changeImage('/images/glance-images/glance-001.jpg', this)">
         <img src="/images/glance-images/glance-002.jpg" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
              onclick="changeImage('/images/glance-images/glance-002.jpg', this)">
         <img src="/images/glance-images/glance-003.jpg" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
+             class="thumbnail"
+             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover; transition: opacity 0.3s;"
              onclick="changeImage('/images/glance-images/glance-003.jpg', this)">
-        <img src="/images/glance-images/glance-004.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-004.png', this)">
-        <img src="/images/glance-images/glance-005.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-005.png', this)">
-        <img src="/images/glance-images/glance-006.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-006.png', this)">
-        <img src="/images/glance-images/glance-007.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-007.png', this)">
-        <img src="/images/glance-images/glance-008.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-008.png', this)">
-        <img src="/images/glance-images/glance-009.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-009.png', this)">
-        <img src="/images/glance-images/glance-010.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-010.png', this)">
-        <img src="/images/glance-images/glance-011.png" 
-             style="cursor: pointer; opacity: 0.6; width: 100%; height: auto; object-fit: cover;" 
-             onclick="changeImage('/images/glance-images/glance-011.png', this)">
+        <!-- 可以继续添加更多图片 -->
   </div>
 </div>
--->
+
+<script>
+    // 更改主图并高亮选中的缩略图
+    function changeImage(src, thumbnail) {
+        // 更新主图片的 src
+        document.getElementById("mainImage").src = src;
+
+        // 移除所有缩略图的选中效果
+        const thumbnails = document.querySelectorAll(".thumbnail");
+        thumbnails.forEach(img => img.style.opacity = 0.6);
+
+        // 设置当前缩略图的选中效果
+        thumbnail.style.opacity = 1;
+    }
+</script>
+
 
 About
 ------
