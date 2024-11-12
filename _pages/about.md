@@ -25,10 +25,10 @@ Recent work at a glance
       }
       /* 主图片样式 */
       #mainImage {
-          width: 70%;
+          width: 500px; /* 固定主图片宽度 */
+          height: 400px; /* 固定主图片高度 */
           margin-right: 10px;
-          object-fit: contain;
-          height: auto;
+          object-fit: contain; /* 确保主图片按比例填充 */
       }
   </style>
 
