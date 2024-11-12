@@ -18,6 +18,8 @@ Recent work at a glance
       #thumbnailContainer img {
           cursor: pointer;
           width: 100%;
+          height: 80px; /* 固定缩略图高度，调整为合适大小 */
+          object-fit: cover; /* 确保缩略图按比例填充 */
           opacity: 0.6;
           transition: opacity 0.3s;
       }
@@ -48,8 +50,6 @@ Recent work at a glance
         <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
-
-
 
 
 About
