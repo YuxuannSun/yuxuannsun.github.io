@@ -11,6 +11,21 @@ redirect_from:
 Recent work at a glance
 ------
 
+<script>
+    // 更改主图并高亮选中的缩略图
+    function changeImage(src, thumbnail) {
+        // 更新主图片的 src
+        document.getElementById("mainImage").src = src;
+
+        // 移除所有缩略图的选中效果
+        const thumbnails = document.querySelectorAll(".thumbnail");
+        thumbnails.forEach(img => img.style.opacity = 0.6);
+
+        // 设置当前缩略图的选中效果
+        thumbnail.style.opacity = 1;
+    }
+</script>
+
 <div style="display: flex; max-width: 800px; margin: auto;">
 
   <!-- 主显示图片 -->
@@ -66,20 +81,7 @@ Recent work at a glance
   </div>
 </div>
 
-<script>
-    // 更改主图并高亮选中的缩略图
-    function changeImage(src, thumbnail) {
-        // 更新主图片的 src
-        document.getElementById("mainImage").src = src;
 
-        // 移除所有缩略图的选中效果
-        const thumbnails = document.querySelectorAll(".thumbnail");
-        thumbnails.forEach(img => img.style.opacity = 0.6);
-
-        // 设置当前缩略图的选中效果
-        thumbnail.style.opacity = 1;
-    }
-</script>
 
 
 About
