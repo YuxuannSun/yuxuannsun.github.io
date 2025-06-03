@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-<!-- 缩略图容器 
-My work at a glance
+ 
+Work at a glance
 ------
 
 <div style="display: flex; max-width: 800px; margin: auto;">
@@ -52,7 +52,6 @@ My work at a glance
         <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
--->
 
 About
 ------
