@@ -10,43 +10,48 @@ redirect_from:
 
 
  
+<style>
+  /* 主图片样式 */
+  #mainImage {
+      width: 800px;
+      height: 600px;
+      object-fit: contain;
+      margin-bottom: 4px; /* 减小与缩略图之间的间距 */
+  }
+
+  /* 缩略图容器：横向排列 + 自动换行 */
+  #thumbnailContainer {
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 8px;
+      justify-content: center;
+  }
+
+  /* 缩略图样式 */
+  #thumbnailContainer img {
+      cursor: pointer;
+      height: 30px;
+      object-fit: cover;
+      opacity: 0.6;
+      transition: opacity 0.3s;
+  }
+
+  #thumbnailContainer img:hover {
+      opacity: 1;
+  }
+
+  /* 全局容器避免默认间距 */
+  body, h2 {
+      margin: 0;
+      padding: 0;
+  }
+</style>
+
 <h2 style="text-align: center; margin-bottom: 8px;">My Work at a glance</h2>
 <hr style="width: 60%; margin: 0 auto 10px auto;">
 
 <div style="max-width: 1600px; margin: auto; text-align: center;">
-
-  <style>
-    /* 主图片样式 */
-    #mainImage {
-        width: 800px;
-        height: 600px;
-        object-fit: contain;
-        margin-bottom: 4px; /* 减小与缩略图之间的间距 */
-    }
-
-    /* 缩略图容器：横向排列 + 自动换行 */
-    #thumbnailContainer {
-        display: flex;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        gap: 8px;
-        justify-content: center;
-    }
-
-    /* 缩略图样式 */
-    #thumbnailContainer img {
-        cursor: pointer;
-        height: 30px;
-        object-fit: cover;
-        opacity: 0.6;
-        transition: opacity 0.3s;
-    }
-
-    #thumbnailContainer img:hover {
-        opacity: 1;
-    }
-  </style>
-
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image">
 
   <div id="thumbnailContainer">
@@ -62,7 +67,6 @@ redirect_from:
     <img src="/images/glance-images/glance-010.png" onclick="mainImage.src=this.src;">
     <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
-
 </div>
 
 
