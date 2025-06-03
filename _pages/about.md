@@ -13,13 +13,13 @@ redirect_from:
 My Work at a glance
 ------
 
-<div style="max-width: 800px; margin: auto; text-align: center;">
+<div style="max-width: 2000px; margin: auto; text-align: center;">
 
   <style>
     /* 主图片样式 */
     #mainImage {
-        width: 600px; /* 主图更大 */
-        height: 450px;
+        width: 1200px; /* 主图更大 */
+        height: 900px;
         object-fit: contain;
         margin-bottom: 10px;
     }
