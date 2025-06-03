@@ -10,25 +10,25 @@ redirect_from:
 
 
  
-My Work at a glance
-------
+<h2 style="text-align: center; margin-bottom: 8px;">My Work at a glance</h2>
+<hr style="width: 60%; margin: 0 auto 10px auto;">
 
 <div style="max-width: 1600px; margin: auto; text-align: center;">
 
   <style>
     /* 主图片样式 */
     #mainImage {
-        width: 800px; /* 主图更大 */
+        width: 800px;
         height: 600px;
         object-fit: contain;
-        margin-bottom: 10px;
+        margin-bottom: 4px; /* 减小与缩略图之间的间距 */
     }
 
     /* 缩略图容器：横向排列 + 自动换行 */
     #thumbnailContainer {
         display: flex;
         flex-wrap: nowrap;
-        overflow-x: auto; /* 横向滚动 */
+        overflow-x: auto;
         gap: 8px;
         justify-content: center;
     }
@@ -36,7 +36,7 @@ My Work at a glance
     /* 缩略图样式 */
     #thumbnailContainer img {
         cursor: pointer;
-        height: 30px; /* 更小缩略图 */
+        height: 30px;
         object-fit: cover;
         opacity: 0.6;
         transition: opacity 0.3s;
@@ -64,6 +64,7 @@ My Work at a glance
   </div>
 
 </div>
+
 
 
 About
