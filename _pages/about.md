@@ -13,13 +13,13 @@ redirect_from:
 My Work at a glance
 ------
 
-<div style="max-width: 2000px; margin: auto; text-align: center;">
+<div style="max-width: 1600px; margin: auto; text-align: center;">
 
   <style>
     /* 主图片样式 */
     #mainImage {
-        width: 1200px; /* 主图更大 */
-        height: 900px;
+        width: 800px; /* 主图更大 */
+        height: 600px;
         object-fit: contain;
         margin-bottom: 10px;
     }
@@ -36,7 +36,7 @@ My Work at a glance
     /* 缩略图样式 */
     #thumbnailContainer img {
         cursor: pointer;
-        height: 40px; /* 更小缩略图 */
+        height: 30px; /* 更小缩略图 */
         object-fit: cover;
         opacity: 0.6;
         transition: opacity 0.3s;
