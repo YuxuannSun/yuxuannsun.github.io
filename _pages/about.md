@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
- 
+<!--
 <style>
   /* 主图片样式 */
   #mainImage {
@@ -68,7 +68,7 @@ redirect_from:
     <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
-
+-->
 
 
 About
