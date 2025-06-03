@@ -10,46 +10,44 @@ redirect_from:
 
 
  
-Work at a glance
+My work at a glance
 ------
 
-<div style="display: flex; max-width: 800px; margin: auto;">
+<div style="display: flex; max-width: 1000px; margin: auto;">
 
   <style>
-      /* 缩略图通用样式 */
-      #thumbnailContainer img {
-          cursor: pointer;
-          width: 100%;
-          height: 80px; /* 固定缩略图高度，调整为合适大小 */
-          object-fit: cover; /* 确保缩略图按比例填充 */
-          opacity: 0.6;
-          transition: opacity 0.3s;
-      }
-      /* 主图片样式 */
-      #mainImage {
-          width: 500px; /* 固定主图片宽度 */
-          height: 400px; /* 固定主图片高度 */
-          margin-right: 10px;
-          object-fit: contain; /* 确保主图片按比例填充 */
-      }
+    /* 缩略图样式 */
+    #thumbnailContainer img {
+        cursor: pointer;
+        width: 100%;
+        height: 60px; /* 更小的缩略图高度 */
+        object-fit: cover;
+        opacity: 0.6;
+        transition: opacity 0.3s;
+    }
+    /* 主图片样式 */
+    #mainImage {
+        width: 600px; /* 更大的主图片宽度 */
+        height: 450px;
+        margin-right: 20px;
+        object-fit: contain;
+    }
   </style>
-
 
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image">
 
-
-  <div id="thumbnailContainer" style="width: 30%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
-        <img src="/images/glance-images/glance-001.jpg" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-002.jpg" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-003.jpg" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-004.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-005.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-006.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-007.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-008.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-009.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-010.png" onclick="mainImage.src=this.src;">
-        <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
+  <div id="thumbnailContainer" style="width: 20%; display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px;">
+    <img src="/images/glance-images/glance-001.jpg" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-002.jpg" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-003.jpg" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-004.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-005.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-006.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-007.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-008.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-009.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-010.png" onclick="mainImage.src=this.src;">
+    <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
 </div>
 
