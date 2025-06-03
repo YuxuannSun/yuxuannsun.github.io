@@ -10,33 +10,46 @@ redirect_from:
 
 
  
-My work at a glance
+My Work at a glance
 ------
 
-<div style="display: flex; max-width: 1000px; margin: auto;">
+<div style="max-width: 800px; margin: auto; text-align: center;">
 
   <style>
+    /* 主图片样式 */
+    #mainImage {
+        width: 600px; /* 主图更大 */
+        height: 450px;
+        object-fit: contain;
+        margin-bottom: 10px;
+    }
+
+    /* 缩略图容器：横向排列 + 自动换行 */
+    #thumbnailContainer {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto; /* 横向滚动 */
+        gap: 8px;
+        justify-content: center;
+    }
+
     /* 缩略图样式 */
     #thumbnailContainer img {
         cursor: pointer;
-        width: 100%;
-        height: 60px; /* 更小的缩略图高度 */
+        height: 40px; /* 更小缩略图 */
         object-fit: cover;
         opacity: 0.6;
         transition: opacity 0.3s;
     }
-    /* 主图片样式 */
-    #mainImage {
-        width: 600px; /* 更大的主图片宽度 */
-        height: 450px;
-        margin-right: 20px;
-        object-fit: contain;
+
+    #thumbnailContainer img:hover {
+        opacity: 1;
     }
   </style>
 
   <img id="mainImage" src="/images/glance-images/glance-001.jpg" alt="Main Image">
 
-  <div id="thumbnailContainer" style="width: 20%; display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px;">
+  <div id="thumbnailContainer">
     <img src="/images/glance-images/glance-001.jpg" onclick="mainImage.src=this.src;">
     <img src="/images/glance-images/glance-002.jpg" onclick="mainImage.src=this.src;">
     <img src="/images/glance-images/glance-003.jpg" onclick="mainImage.src=this.src;">
@@ -49,7 +62,9 @@ My work at a glance
     <img src="/images/glance-images/glance-010.png" onclick="mainImage.src=this.src;">
     <img src="/images/glance-images/glance-011.png" onclick="mainImage.src=this.src;">
   </div>
+
 </div>
+
 
 About
 ------
